@@ -63,6 +63,15 @@ export function byTime(snaps: Snap[]): Snap[] {
   return [...snaps].sort((a, b) => Date.parse(a.captured_at) - Date.parse(b.captured_at));
 }
 
+export function knownHandles(rows: Row[]): string[] {
+  const handles = new Map<string, string>();
+  for (const row of rows) {
+    const handle = row.x_handle.trim();
+    if (handle) handles.set(handle.toLowerCase(), handle);
+  }
+  return [...handles.values()].sort((a, b) => a.localeCompare(b, undefined, { sensitivity: "base" }));
+}
+
 export function officialPrevious(current: number): number | null {
   return current > 1 ? current - 1 : null;
 }

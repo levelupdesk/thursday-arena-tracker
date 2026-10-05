@@ -18,6 +18,7 @@ import {
   isStale,
   endedWaitingText,
   justReset,
+  knownHandles,
   movementSnaps,
   ratingDeltas,
   rosterChanges,
@@ -57,6 +58,19 @@ describe("season labels", () => {
     const storedName = "Season 1";
     assert.equal(seasonLabel(number), "Season 2");
     assert.notEqual(seasonLabel(number), storedName);
+  });
+});
+
+describe("player history suggestions", () => {
+  it("sorts handles and removes case-insensitive duplicates", () => {
+    assert.deepEqual(
+      knownHandles([
+        row({ x_handle: "zeta", rank: 1, rating: 1000 }),
+        row({ x_handle: "Alpha", rank: 2, rating: 1000 }),
+        row({ x_handle: " alpha ", rank: 3, rating: 1000 }),
+      ]),
+      ["alpha", "zeta"],
+    );
   });
 });
 
