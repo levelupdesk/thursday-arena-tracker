@@ -31,6 +31,7 @@ import {
   playersShownNote,
   topShownNote,
   isStale,
+  knownHandles,
   weekMoverPlan,
   withTiedCutoff,
   type Delta,
@@ -699,11 +700,24 @@ function render(): void {
   const search = el("input");
   search.type = "search";
   search.value = selected;
+  search.setAttribute("list", "player-suggestions");
   search.addEventListener("change", () => {
     if (search.value.trim()) selectPlayer(search.value.trim().replace(/^@/, ""));
   });
   searchLabel.append(search);
-  filters.append(searchLabel);
+  const suggestions = el("datalist");
+  suggestions.id = "player-suggestions";
+  const rowsForSuggestions = [
+    ...seasons.flatMap((season) => season.snapshots.flatMap((snap) => snap.entries)),
+    ...boardRows,
+    ...(fetchedPrevious?.snapshots.flatMap((snap) => snap.entries) ?? []),
+  ];
+  for (const handle of knownHandles(rowsForSuggestions)) {
+    const option = el("option");
+    option.value = handle;
+    suggestions.append(option);
+  }
+  filters.append(searchLabel, suggestions);
   const chips = el("div", "chips");
   const allButton = el("button", "", "All stored seasons");
   allButton.type = "button";
