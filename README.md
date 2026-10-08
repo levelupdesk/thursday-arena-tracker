@@ -32,14 +32,29 @@ scheduled GitHub Action (cron in site.yml), with workflow_dispatch as the manual
     also backfill final.json for the immediate previous season if it is missing
   append data/seasons/<number>/snapshots/<UTC-date>.json unless the board is unchanged
   GET /api/catalog once per UTC day → data/catalog/<UTC-date>.json
+  GET /api/public/v1/matches?limit=50  (newest game on this board, for the stale check)
   commit data/ only when files changed
   record the check time in gitignored .cache/last-check.json
+  record what was read in gitignored .cache/snapshot-result.json
 pages build
   scripts/build-data.mjs → public/data/site-data.json
   vite build (GitHub Pages base /thursday-arena-tracker/, Vercel base /)
+deploy, then scripts/verify-publish.mjs on the built file and on the live page
 ```
 
-The leaderboard allows browser CORS, so the top 20 can refresh live. The catalog does not, so the page only reads the stored catalog summary. An HTTP error, a non-JSON body, a timeout, or a season number below the stored current season does not write a snapshot and does not fail the job. A 429 is retried once, after the `Retry-After` wait (capped at two minutes). An empty ladder is written for HTTP 200 with `data: []` when the season is under 24 hours old or no snapshot with rows is stored yet. Later in the season, an empty board is ignored and the last snapshot is kept. Identical boards are not appended. A run that only moves `last_checked` does not commit `index.json`. That run still writes the check time to gitignored `.cache/last-check.json`, and the site build uses it for `last_checked` when it is newer than the committed value.
+### When a publish run goes red
+
+`last_snapshot` is the time the board last **changed**, not the last check. A quiet ladder (no games) keeps the same `last_snapshot` while `last_checked` moves every run, and that run is green. After deploy, `scripts/verify-publish.mjs` fails the run (red) when any of these is true:
+
+- the snapshot step did not read the ladder: HTTP error, timeout, bad JSON, an empty board mid-season, or a season number below the stored one (`status=skipped` in `.cache/snapshot-result.json`);
+- the published `last_checked` is not this run's check time;
+- the published latest board for the season is not the board this run read from the API;
+- the run wrote a snapshot but the published `last_snapshot` is not that snapshot;
+- the match feed shows a game with a player on this board after `last_snapshot`, more than 10 minutes before the check, and the board is unchanged. Every game moves wins, losses, or rating, so that means the snapshot is stale.
+
+The live check retries for up to about 3 minutes while Pages propagates. If only the match feed is down, the run stays green with a warning, and the board checks still apply.
+
+The leaderboard allows browser CORS, so the top 20 can refresh live. The catalog does not, so the page only reads the stored catalog summary. An HTTP error, a non-JSON body, a timeout, or a season number below the stored current season does not write a snapshot. The page still deploys with the stored data, and the verify step then fails the run (see "When a publish run goes red"). A 429 is retried once, after the `Retry-After` wait (capped at two minutes). An empty ladder is written for HTTP 200 with `data: []` when the season is under 24 hours old or no snapshot with rows is stored yet. Later in the season, an empty board is ignored, the last snapshot is kept, and the run goes red. Identical boards are not appended. A run that only moves `last_checked` does not commit `index.json`. That run still writes the check time to gitignored `.cache/last-check.json`, and the site build uses it for `last_checked` when it is newer than the committed value.
 
 GitHub runs this cron only from the default branch. The first slots after `site.yml` was added were not created; changing the workflow file on `main` is what makes Actions read the schedule again.
 
@@ -61,7 +76,7 @@ npm run build
 
 ## GitHub Pages
 
-The repo uses a workflow build. `.github/workflows/site.yml` snapshots, commits `data/`, and deploys `dist/` to GitHub Pages on its schedule, and `workflow_dispatch` is the manual backup. Pull requests run the tests in `ci.yml`; the scheduled job does not, so a test cannot block a deploy. The site URL is `https://levelupworldhub.github.io/thursday-arena-tracker/`. Actions needs permission to write contents so that job can push. No personal token and no paid services.
+The repo uses a workflow build. `.github/workflows/site.yml` snapshots, commits `data/`, and deploys `dist/` to GitHub Pages on its schedule, and `workflow_dispatch` is the manual backup. Pull requests run the tests in `ci.yml`; the scheduled job does not, so a test cannot block a deploy. The scheduled job does run `scripts/verify-publish.mjs` after deploy, so stale or failed data turns the run red without blocking the deploy. The site URL is `https://levelupdesk.github.io/thursday-arena-tracker/`. Actions needs permission to write contents so that job can push. No personal token and no paid services.
 
 ## License
 

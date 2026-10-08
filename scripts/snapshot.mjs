@@ -24,6 +24,7 @@ const API = "https://thursdayarena.com/api/public/v1";
 const CATALOG_URL = "https://thursdayarena.com/api/catalog";
 const USER_AGENT = "thursday-arena-tracker/1.0 (+https://github.com/LevelUpWorldHub/thursday-arena-tracker)";
 const FINAL_PAGE_CAP = 20;
+const MATCHES_URL = `${API}/matches?limit=50`;
 
 function setOutput(status) {
   if (!process.env.GITHUB_OUTPUT) return;
@@ -279,6 +280,38 @@ async function writeLastCheck(checkedAt, cacheFile = path.join(root, ".cache", "
   await writeFile(cacheFile, `${JSON.stringify({ checked_at: checkedAt }, null, 2)}\n`);
 }
 
+// Facts about this run for scripts/verify-publish.mjs, which turns them into a red run when the
+// published data did not move with the source. Always written, including on skipped runs.
+async function writeResult(resultFile, result) {
+  await mkdir(path.dirname(resultFile), { recursive: true });
+  await writeFile(resultFile, `${JSON.stringify(result, null, 2)}\n`);
+}
+
+function matchSeasonNumber(match) {
+  const raw = match?.season;
+  if (Number.isFinite(raw)) return raw;
+  if (Number.isFinite(raw?.number)) return raw.number;
+  const found = /(\d+)/.exec(String(raw ?? ""));
+  return found ? Number(found[1]) : null;
+}
+
+// Newest played_at in the public match feed for this season, counting only matches with a player
+// who is on the board we just read (so a ladder longer than one page cannot cause a false alarm).
+export function newestBoardMatch(body, seasonNumber, entries) {
+  if (!body || !Array.isArray(body.data)) return { ok: false, error: "matches response has no data array" };
+  const handles = new Set(entries.map((entry) => String(entry.x_handle).toLowerCase()));
+  let newest = null;
+  for (const match of body.data) {
+    if (matchSeasonNumber(match) !== seasonNumber) continue;
+    const players = Array.isArray(match?.players) ? match.players : [];
+    if (!players.some((player) => handles.has(String(player?.x_handle).toLowerCase()))) continue;
+    const when = Date.parse(match?.played_at ?? "");
+    if (Number.isNaN(when)) continue;
+    if (newest == null || when > newest) newest = when;
+  }
+  return { ok: true, newest_match_at: newest == null ? null : new Date(newest).toISOString() };
+}
+
 export async function runSnapshot(options = {}) {
   const fetchImpl = options.fetchJson || fetchJson;
   const clock = options.now || (() => new Date());
@@ -286,6 +319,7 @@ export async function runSnapshot(options = {}) {
   const seasonsDir = options.seasonsRoot || path.join(dataRoot, "data/seasons");
   const catalogDir = options.catalogRoot || path.join(dataRoot, "data/catalog");
   const cacheFile = options.cacheFile || path.join(dataRoot, ".cache", "last-check.json");
+  const resultFile = options.resultFile || path.join(dataRoot, ".cache", "snapshot-result.json");
   if (path.resolve(seasonsDir) === path.resolve(seasonsRoot)) await runImport();
   const indexPath = path.join(seasonsDir, "index.json");
   const index = (await exists(indexPath)) ? await readJson(indexPath) : { seasons: [] };
@@ -303,6 +337,7 @@ export async function runSnapshot(options = {}) {
     index.fetch_failed = true;
     await mkdir(seasonsDir, { recursive: true });
     await writeFile(indexPath, `${JSON.stringify(index, null, 2)}\n`);
+    await writeResult(resultFile, { checked_at: checkedAt, status: "skipped", reason: "fetch_failed", error: board.error });
     setOutput("skipped");
     console.log("status=skipped");
     return "skipped";
@@ -312,8 +347,15 @@ export async function runSnapshot(options = {}) {
   const storedCurrent = await storedCurrentNumber(index, seasonsDir);
   if (!shouldWriteHourly(incoming, storedCurrent)) {
     console.error(`refusing hourly write: season ${incoming} is below stored current ${storedCurrent}`);
+    await writeResult(resultFile, {
+      checked_at: checkedAt,
+      status: "skipped",
+      reason: "season_regressed",
+      error: `season ${incoming} is below stored current ${storedCurrent}`,
+    });
     setOutput("skipped");
-    return;
+    console.log("status=skipped");
+    return "skipped";
   }
 
   let wroteFinal = false;
@@ -343,17 +385,23 @@ export async function runSnapshot(options = {}) {
     board.entries.length === 0 &&
     !acceptEmptyLadder(startsAt, Date.parse(capturedAt), existing.some((snap) => snap.entries.length > 0));
   let wroteLadder = false;
+  const nextFp = fingerprint(incoming, board.entries);
   if (keepLast) {
     console.error("empty ladder mid-season; keeping the last snapshot");
     console.log("::warning::Empty leaderboard mid-season. Showing stored data.");
     index.fetch_failed = true;
     await mkdir(seasonsDir, { recursive: true });
     await writeFile(indexPath, `${JSON.stringify(index, null, 2)}\n`);
+    await writeResult(resultFile, {
+      checked_at: checkedAt,
+      status: "skipped",
+      reason: "empty_ladder_kept",
+      error: "leaderboard came back empty mid-season",
+    });
     setOutput("skipped");
     console.log("status=skipped");
     return "skipped";
   } else {
-    const nextFp = fingerprint(incoming, board.entries);
     const same = latest && fingerprint(latest.season.number, latest.entries) === nextFp;
     if (same) {
       console.log(`season ${incoming} board unchanged; not writing a duplicate snapshot`);
@@ -408,6 +456,25 @@ export async function runSnapshot(options = {}) {
   await writeLastCheck(checkedAt, cacheFile);
 
   const status = wroteLadder || wroteFinal || catalogStatus === "wrote" || materialIndex ? "wrote" : "deduped";
+  const matchesFetched = await guarded(fetchImpl, MATCHES_URL);
+  const matches = matchesFetched.ok
+    ? newestBoardMatch(matchesFetched.body, incoming, board.entries)
+    : { ok: false, error: matchesFetched.error };
+  if (!matches.ok) {
+    console.log(`::warning::Match feed check unavailable (${matches.error}); ladder freshness checked against the board only.`);
+  }
+  await writeResult(resultFile, {
+    checked_at: checkedAt,
+    status,
+    season: incoming,
+    wrote_ladder: wroteLadder,
+    captured_at: wroteLadder ? capturedAt : null,
+    latest_snapshot_at: last,
+    source_count: board.entries.length,
+    source_fingerprint: nextFp,
+    matches_checked: matches.ok === true,
+    newest_match_at: matches.ok ? matches.newest_match_at : null,
+  });
   setOutput(status);
   console.log(`status=${status}`);
   return status;
