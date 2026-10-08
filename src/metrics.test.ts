@@ -457,9 +457,11 @@ describe("frequency", () => {
     }
     const table = appearances(snaps);
     const shown = withTiedCutoff(table.rows, 20);
-    assert.equal(table.rows.length, 36);
-    assert.equal(shown.length, 25);
-    assert.equal(playersShownNote(shown.length, table.rows.length), "25 of 36 players shown");
+    // Season 4 ended Sep 26 07:00 UTC; its last committed snapshot is 2026-09-26T06:49:15Z, so these
+    // counts are final. (36/25 was the count when this test was written mid-season on Sep 25.)
+    assert.equal(table.rows.length, 40);
+    assert.equal(shown.length, 22);
+    assert.equal(playersShownNote(shown.length, table.rows.length), "22 of 40 players shown");
   });
 });
 

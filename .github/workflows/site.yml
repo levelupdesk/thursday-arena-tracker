@@ -36,6 +36,7 @@ jobs:
           cache: npm
       - name: Collect leaderboard snapshot
         if: github.event_name != 'push'
+        # Records what it read in .cache/snapshot-result.json; the verify steps below fail the run.
         run: node scripts/snapshot.mjs
       - name: Commit snapshot data
         if: github.event_name != 'push'
@@ -65,3 +66,15 @@ jobs:
       - id: deployment_retry
         if: steps.deployment.outcome == 'failure'
         uses: actions/deploy-pages@v5
+      # A snapshot run must turn red when the data it published did not move with the source:
+      # failed or empty ladder read, published board different from the API board, last_checked
+      # not advanced, or a match on the board after the latest snapshot with the board unchanged.
+      # These run after deploy so the page still gets whatever data this run has.
+      - name: Verify built data matches this run's API read
+        if: github.event_name != 'push'
+        run: node scripts/verify-publish.mjs --built dist/data/site-data.json
+      - name: Verify the live page serves this run's data
+        if: github.event_name != 'push'
+        env:
+          PAGE_URL: ${{ steps.deployment.outputs.page_url || steps.deployment_retry.outputs.page_url }}
+        run: node scripts/verify-publish.mjs --live "${PAGE_URL%/}/data/site-data.json"
