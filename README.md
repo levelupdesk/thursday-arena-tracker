@@ -21,7 +21,9 @@ Times on the page are Pacific Time. Stored timestamps are UTC.
 ## Data flow
 
 ```
-scheduled GitHub Action (cron in site.yml), with workflow_dispatch as the manual backup
+GitHub Action site.yml on schedule, workflow_dispatch, and push to main (every event runs every step)
+  check out the newest main (not the triggering sha)
+  carry forward the live page's last_checked if the stored board is the live board
   import seed into data/seasons/<number>/ if needed
   GET /api/public/v1/season          → data/seasons/index.json
   GET /api/public/v1/leaderboard?limit=100
@@ -52,7 +54,7 @@ deploy, then scripts/verify-publish.mjs on the built file and on the live page
 - the run wrote a snapshot but the published `last_snapshot` is not that snapshot;
 - the match feed shows a game with a player on this board after `last_snapshot`, more than 10 minutes before the check, and the board is unchanged. Every game moves wins, losses, or rating, so that means the snapshot is stale.
 
-The live check retries for up to about 3 minutes while Pages propagates. If only the match feed is down, the run stays green with a warning, and the board checks still apply.
+A push to `main` (a merge) runs the same snapshot, commit, and verify steps as a scheduled run, so a merge deploy never publishes an older `last_checked` or board than the live page. Before the snapshot, `scripts/carry-forward.mjs` reads the live `site-data.json`. If its `last_checked` is newer than the checkout's and its board is the stored board, it writes that time to `.cache/last-check.json`, so even a merge run whose ladder read fails keeps the live check time (and still goes red). The live check retries for up to about 3 minutes while Pages propagates. If only the match feed is down, the run stays green with a warning, and the board checks still apply.
 
 The leaderboard allows browser CORS, so the top 20 can refresh live. The catalog does not, so the page only reads the stored catalog summary. An HTTP error, a non-JSON body, a timeout, or a season number below the stored current season does not write a snapshot. The page still deploys with the stored data, and the verify step then fails the run (see "When a publish run goes red"). A 429 is retried once, after the `Retry-After` wait (capped at two minutes). An empty ladder is written for HTTP 200 with `data: []` when the season is under 24 hours old or no snapshot with rows is stored yet. Later in the season, an empty board is ignored, the last snapshot is kept, and the run goes red. Identical boards are not appended. A run that only moves `last_checked` does not commit `index.json`. That run still writes the check time to gitignored `.cache/last-check.json`, and the site build uses it for `last_checked` when it is newer than the committed value.
 
@@ -76,7 +78,7 @@ npm run build
 
 ## GitHub Pages
 
-The repo uses a workflow build. `.github/workflows/site.yml` snapshots, commits `data/`, and deploys `dist/` to GitHub Pages on its schedule, and `workflow_dispatch` is the manual backup. Pull requests run the tests in `ci.yml`; the scheduled job does not, so a test cannot block a deploy. The scheduled job does run `scripts/verify-publish.mjs` after deploy, so stale or failed data turns the run red without blocking the deploy. The site URL is `https://levelupdesk.github.io/thursday-arena-tracker/`. Actions needs permission to write contents so that job can push. No personal token and no paid services.
+The repo uses a workflow build. `.github/workflows/site.yml` snapshots, commits `data/`, and deploys `dist/` to GitHub Pages on its schedule, and `workflow_dispatch` is the manual backup. Pull requests run the tests in `ci.yml`; the scheduled job does not, so a test cannot block a deploy. Every publish run (schedule, dispatch, and push) runs `scripts/verify-publish.mjs` after deploy, so stale or failed data turns the run red without blocking the deploy. The site URL is `https://levelupdesk.github.io/thursday-arena-tracker/`. Actions needs permission to write contents so that job can push. No personal token and no paid services.
 
 ## License
 
