@@ -28,18 +28,27 @@ jobs:
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url || steps.deployment_retry.outputs.page_url }}
+    env:
+      SITE_DATA_URL: https://${{ github.repository_owner }}.github.io/${{ github.event.repository.name }}/data/site-data.json
     steps:
+      # Build from the newest main, not the triggering commit: a merge run that started from an older
+      # sha could otherwise publish data older than what a snapshot run already deployed.
       - uses: actions/checkout@v7
+        with:
+          ref: ${{ github.ref == 'refs/heads/main' && 'main' || github.sha }}
       - uses: actions/setup-node@v7
         with:
           node-version: 22
           cache: npm
+      # Every run, including a push/merge deploy, refreshes the ladder and is verified below, so a
+      # deploy never moves the page's last_checked or board backwards. carry-forward keeps the live
+      # last_checked when the stored board is the live board, in case this run's ladder read fails.
+      - name: Carry forward the live check time
+        run: node scripts/carry-forward.mjs "$SITE_DATA_URL"
       - name: Collect leaderboard snapshot
-        if: github.event_name != 'push'
         # Records what it read in .cache/snapshot-result.json; the verify steps below fail the run.
         run: node scripts/snapshot.mjs
       - name: Commit snapshot data
-        if: github.event_name != 'push'
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
@@ -71,10 +80,8 @@ jobs:
       # not advanced, or a match on the board after the latest snapshot with the board unchanged.
       # These run after deploy so the page still gets whatever data this run has.
       - name: Verify built data matches this run's API read
-        if: github.event_name != 'push'
         run: node scripts/verify-publish.mjs --built dist/data/site-data.json
       - name: Verify the live page serves this run's data
-        if: github.event_name != 'push'
         env:
           PAGE_URL: ${{ steps.deployment.outputs.page_url || steps.deployment_retry.outputs.page_url }}
         run: node scripts/verify-publish.mjs --live "${PAGE_URL%/}/data/site-data.json"
