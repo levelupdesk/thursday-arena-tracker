@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-21T00:31:14.548Z",
-  "last_checked": "2026-10-21T00:31:14.548Z",
+  "generated_at": "2026-10-21T05:15:14.176Z",
+  "last_checked": "2026-10-21T05:15:14.176Z",
   "current": {
     "number": 6,
     "state": "active",
@@ -45,7 +45,7 @@
       "starts_at": "2026-10-03T07:00:00Z",
       "ends_at": null,
       "first_snapshot": "2026-10-03T07:11:17.602Z",
-      "last_snapshot": "2026-10-21T00:31:15.105Z"
+      "last_snapshot": "2026-10-21T05:15:14.632Z"
     }
   ]
 }
