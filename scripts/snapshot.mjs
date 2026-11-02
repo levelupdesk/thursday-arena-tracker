@@ -256,7 +256,10 @@ async function maybeWriteCatalog(options = {}) {
         captured_at: clock().toISOString(),
         source: CATALOG_URL,
         count: valid.bots.length,
-        bots: valid.bots,
+        // Store only summary inputs, not unused author metadata that can trigger push protection.
+        bots: valid.bots.map(({ rarity, cost, attack, health, crew, season }) => ({
+          rarity, cost, attack, health, crew, season,
+        })),
       },
       null,
       2,

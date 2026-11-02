@@ -6,6 +6,7 @@ import path from "node:path";
 import { describe, it } from "node:test";
 import { fileURLToPath } from "node:url";
 import { buildSiteData } from "./build-data.mjs";
+import { summarizeCatalog } from "./lib.mjs";
 import { fetchJson, maybeWriteFinal, runSnapshot } from "./snapshot.mjs";
 
 const root = path.resolve(path.dirname(fileURLToPath(import.meta.url)), "..");
@@ -26,6 +27,46 @@ async function readOrNull(file) {
 function row(rank, handle) {
   return { rank, x_handle: handle, rating: 1100, wins: 1, losses: 0, draws: 0 };
 }
+
+describe("catalog snapshot", () => {
+  it("stores only summary inputs and builds the same catalog statistics", async () => {
+    const dir = await mkdtemp(path.join(tmpdir(), "arena-catalog-"));
+    const checkedAt = "2026-11-02T03:00:00.000Z";
+    const current = { number: 1, state: "active", starts_at: checkedAt };
+    const bots = [
+      {
+        name: "Example bot", rarity: "common", cost: 3, attack: 2, health: 5,
+        crew: "ops", season: 1, authorHandle: "example_author",
+        author: "Example author", extra: { unused: "metadata" },
+      },
+      { name: "Another bot", rarity: "rare", cost: 4, attack: 6, health: 3 },
+    ];
+    const fetchJson = async (url) => {
+      const pathname = new URL(url).pathname;
+      if (pathname === "/api/public/v1/season") return { ok: true, body: { current } };
+      if (pathname === "/api/public/v1/leaderboard") {
+        return { ok: true, body: { season: current, data: [row(1, "alpha")] } };
+      }
+      if (pathname === "/api/catalog") return { ok: true, body: bots };
+      if (pathname === "/api/public/v1/matches") return { ok: true, body: { data: [] } };
+      throw new Error(`unexpected URL ${url}`);
+    };
+
+    assert.equal(await runSnapshot({ root: dir, fetchJson, now: () => new Date(checkedAt) }), "wrote");
+    const saved = JSON.parse(await readFile(path.join(dir, "data/catalog/2026-11-02.json"), "utf8"));
+    assert.deepEqual(saved, {
+      captured_at: checkedAt,
+      source: "https://thursdayarena.com/api/catalog",
+      count: 2,
+      bots: [
+        { rarity: "common", cost: 3, attack: 2, health: 5, crew: "ops", season: 1 },
+        { rarity: "rare", cost: 4, attack: 6, health: 3 },
+      ],
+    });
+    const payload = await buildSiteData({ root: dir });
+    assert.deepEqual(payload.catalog, summarizeCatalog(bots, checkedAt));
+  });
+});
 
 describe("partial season final", () => {
   it("saves 2000 rows with complete:false when the cursor never ends", async () => {

@@ -58,6 +58,8 @@ A push to `main` (a merge) runs the same snapshot, commit, and verify steps as a
 
 The leaderboard allows browser CORS, so the top 20 can refresh live. The catalog does not, so the page only reads the stored catalog summary. An HTTP error, a non-JSON body, a timeout, or a season number below the stored current season does not write a snapshot. The page still deploys with the stored data, and the verify step then fails the run (see "When a publish run goes red"). A 429 is retried once, after the `Retry-After` wait (capped at two minutes). An empty ladder is written for HTTP 200 with `data: []` when the season is under 24 hours old or no snapshot with rows is stored yet. Later in the season, an empty board is ignored, the last snapshot is kept, and the run goes red. Identical boards are not appended. A run that only moves `last_checked` does not commit `index.json`. That run still writes the check time to gitignored `.cache/last-check.json`, and the site build uses it for `last_checked` when it is newer than the committed value.
 
+New daily catalog snapshots store only the summary inputs: rarity, cost, attack, health, crew, and season. Unused API metadata, including author handles that can trigger generic-secret push protection, is not persisted. GitHub push protection remains enabled.
+
 GitHub runs this cron only from the default branch. The first slots after `site.yml` was added were not created; changing the workflow file on `main` is what makes Actions read the schedule again.
 
 `leaderboard?season=<number>` is the final-standings query. `cursor` is the paging parameter (`next_cursor` in the query string is ignored). `limit=100` works. A missing season returns 404 `season_not_found`.
