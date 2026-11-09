@@ -1,0 +1,8055 @@
+{
+  "captured_at": "2026-11-09T03:01:43.794Z",
+  "source": "https://thursdayarena.com/api/catalog",
+  "count": 1006,
+  "bots": [
+    {
+      "rarity": "epic",
+      "cost": 6,
+      "attack": 6,
+      "health": 5,
+      "crew": "personal",
+      "season": 1
+    },
+    {
+      "rarity": "uncommon",
+      "cost": 4,
+      "attack": 4,
+      "health": 4,
+      "crew": "personal",
+      "season": 1
+    },
+    {
+      "rarity": "uncommon",
+      "cost": 4,
+      "attack": 3,
+      "health": 6,
+      "crew": "ops",
+      "season": 1
+    },
+    {
+      "rarity": "uncommon",
+      "cost": 4,
+      "attack": 3,
+      "health": 5,
+      "crew": "builders",
+      "season": 1
+    },
+    {
+      "rarity": "common",
+      "cost": 3,
+      "attack": 3,
+      "health": 4,
+      "crew": "builders",
+      "season": 1
+    },
+    {
+      "rarity": "common",
+      "cost": 3,
+      "attack": 2,
+      "health": 5,
+      "crew": "marketing",
+      "season": 1
+    },
+    {
+      "rarity": "common",
+      "cost": 3,
+      "attack": 2,
+      "health": 6,
+      "crew": "builders",
+      "season": 1
+    },
+    {
+      "rarity": "rare",
+      "cost": 5,
+      "attack": 3,
+      "health": 7,
+      "crew": "ops",
+      "season": 1
+    },
+    {
+      "rarity": "uncommon",
+      "cost": 4,
+      "attack": 4,
+      "health": 4,
+      "crew": "personal",
+      "season": 1
+    },
+    {
+      "rarity": "common",
+      "cost": 3,
+      "attack": 3,
+      "health": 4,
+      "crew": "personal",
+      "season": 1
+    },
+    {
+      "rarity": "uncommon",
+      "cost": 4,
+      "attack": 3,
+      "health": 5,
+      "crew": "ops",
+      "season": 1
+    },
+    {
+      "rarity": "common",
+      "cost": 3,
+      "attack": 2,
+      "health": 5,
+      "crew": "marketing",
+      "season": 1
+    },
+    {
+      "rarity": "uncommon",
+      "cost": 4,
+      "attack": 4,
+      "health": 4,
+      "crew": "builders",
+      "season": 1
+    },
+    {
+      "rarity": "uncommon",
+      "cost": 4,
+      "attack": 3,
+      "health": 6,
+      "crew": "sales",
+      "season": 1
+    },
+    {
+      "rarity": "uncommon",
+      "cost": 4,
+      "attack": 4,
+      "health": 5,
+      "crew": "personal",
+      "season": 1
+    },
+    {
+      "rarity": "common",
+      "cost": 3,
+      "attack": 3,
+      "health": 4,
+      "crew": "sales",
+      "season": 1
+    },
+    {
+      "rarity": "rare",
+      "cost": 5,
+      "attack": 4,
+      "health": 6,
+      "crew": "personal",
+      "season": 1
+    },
+    {
+      "rarity": "common",
+      "cost": 3,
+      "attack": 3,
+      "health": 3,
+      "crew": "marketing",
+      "season": 1
+    },
+    {
+      "rarity": "common",
+      "cost": 3,
+      "attack": 2,
+      "health": 5,
+      "crew": "marketing",
+      "season": 1
+    },
+    {
+      "rarity": "uncommon",
+      "cost": 4,
+      "attack": 3,
+      "health": 5,
+      "crew": "marketing",
+      "season": 1
+    },
+    {
+      "rarity": "epic",
+      "cost": 6,
+      "attack": 5,
+      "health": 6,
+      "crew": "builders",
+      "season": 1
+    },
+    {
+      "rarity": "rare",
+      "cost": 5,
+      "attack": 5,
+      "health": 4,
+      "crew": "builders",
+      "season": 1
+    },
+    {
+      "rarity": "uncommon",
+      "cost": 4,
+      "attack": 3,
+      "health": 5,
+      "crew": "builders",
+      "season": 1
+    },
+    {
+      "rarity": "rare",
+      "cost": 5,
+      "attack": 5,
+      "health": 4,
+      "crew": "builders",
+      "season": 1
+    },
+    {
+      "rarity": "common",
+      "cost": 3,
+      "attack": 3,
+      "health": 3,
+      "crew": "personal",
+      "season": 1
+    },
+    {
+      "rarity": "common",
+      "cost": 3,
+      "attack": 2,
+      "health": 6,
+      "crew": "personal",
+      "season": 1
+    },
+    {
+      "rarity": "uncommon",
+      "cost": 4,
+      "attack": 4,
+      "health": 3,
+      "crew": "ops",
+      "season": 1
+    },
+    {
+      "rarity": "common",
+      "cost": 3,
+      "attack": 2,
+      "health": 5,
+      "crew": "sales",
+      "season": 1
+    },
+    {
+      "rarity": "epic",
+      "cost": 6,
+      "attack": 6,
+      "health": 6,
+      "crew": "ops",
+      "season": 1
+    },
+    {
+      "rarity": "uncommon",
+      "cost": 4,
+      "attack": 2,
+      "health": 6,
+      "crew": "personal",
+      "season": 1
+    },
+    {
+      "rarity": "common",
+      "cost": 3,
+      "attack": 3,
+      "health": 4,
+      "crew": "ops",
+      "season": 1
+    },
+    {
+      "rarity": "common",
+      "cost": 3,
+      "attack": 2,
+      "health": 6,
+      "crew": "personal",
+      "season": 1
+    },
+    {
+      "rarity": "uncommon",
+      "cost": 4,
+      "attack": 3,
+      "health": 6,
+      "crew": "builders",
+      "season": 1
+    },
+    {
+      "rarity": "common",
+      "cost": 3,
+      "attack": 3,
+      "health": 5,
+      "crew": "ops",
+      "season": 1
+    },
+    {
+      "rarity": "common",
+      "cost": 3,
+      "attack": 3,
+      "health": 4,
+      "crew": "ops",
+      "season": 1
+    },
+    {
+      "rarity": "common",
+      "cost": 3,
+      "attack": 3,
+      "health": 4,
+      "crew": "builders",
+      "season": 1
+    },
+    {
+      "rarity": "common",
+      "cost": 3,
+      "attack": 3,
+      "health": 3,
+      "crew": "marketing",
+      "season": 1
+    },
+    {
+      "rarity": "common",
+      "cost": 3,
+      "attack": 4,
+      "health": 2,
+      "crew": "sales",
+      "season": 1
+    },
+    {
+      "rarity": "common",
+      "cost": 3,
+      "attack": 2,
+      "health": 5,
+      "crew": "sales",
+      "season": 1
+    },
+    {
+      "rarity": "common",
+      "cost": 3,
+      "attack": 3,
+      "health": 4,
+      "crew": "sales",
+      "season": 1
+    },
+    {
+      "rarity": "uncommon",
+      "cost": 4,
+      "attack": 4,
+      "health": 4,
+      "crew": "sales",
+      "season": 1
+    },
+    {
+      "rarity": "common",
+      "cost": 3,
+      "attack": 4,
+      "health": 3,
+      "crew": "sales",
+      "season": 1
+    },
+    {
+      "rarity": "rare",
+      "cost": 5,
+      "attack": 3,
+      "health": 7,
+      "crew": "sales",
+      "season": 1
+    },
+    {
+      "rarity": "common",
+      "cost": 3,
+      "attack": 3,
+      "health": 3,
+      "crew": "builders",
+      "season": 1
+    },
+    {
+      "rarity": "common",
+      "cost": 3,
+      "attack": 2,
+      "health": 4,
+      "crew": "personal",
+      "season": 1
+    },
+    {
+      "rarity": "common",
+      "cost": 3,
+      "attack": 2,
+      "health": 5,
+      "crew": "ops",
+      "season": 1
+    },
+    {
+      "rarity": "common",
+      "cost": 3,
+      "attack": 4,
+      "health": 2,
+      "crew": "personal",
+      "season": 1
+    },
+    {
+      "rarity": "rare",
+      "cost": 5,
+      "attack": 2,
+      "health": 8,
+      "crew": "ops",
+      "season": 1
+    },
+    {
+      "rarity": "common",
+      "cost": 3,
+      "attack": 2,
+      "health": 6,
+      "crew": "sales",
+      "season": 1
+    },
+    {
+      "rarity": "uncommon",
+      "cost": 4,
+      "attack": 3,
+      "health": 6,
+      "crew": "sales",
+      "season": 1
+    },
+    {
+      "rarity": "uncommon",
+      "cost": 4,
+      "attack": 3,
+      "health": 5,
+      "crew": "sales",
+      "season": 1
+    },
+    {
+      "rarity": "rare",
+      "cost": 5,
+      "attack": 3,
+      "health": 8,
+      "crew": "personal",
+      "season": 1
+    },
+    {
+      "rarity": "common",
+      "cost": 3,
+      "attack": 4,
+      "health": 2,
+      "crew": "builders",
+      "season": 1
+    },
+    {
+      "rarity": "common",
+      "cost": 3,
+      "attack": 3,
+      "health": 5,
+      "crew": "personal",
+      "season": 1
+    },
+    {
+      "rarity": "uncommon",
+      "cost": 4,
+      "attack": 3,
+      "health": 5,
+      "crew": "sales",
+      "season": 1
+    },
+    {
+      "rarity": "rare",
+      "cost": 5,
+      "attack": 3,
+      "health": 6,
+      "crew": "sales",
+      "season": 1
+    },
+    {
+      "rarity": "rare",
+      "cost": 5,
+      "attack": 4,
+      "health": 6,
+      "crew": "sales",
+      "season": 1
+    },
+    {
+      "rarity": "epic",
+      "cost": 6,
+      "attack": 5,
+      "health": 7,
+      "crew": "marketing",
+      "season": 1
+    },
+    {
+      "rarity": "uncommon",
+      "cost": 4,
+      "attack": 4,
+      "health": 4,
+      "crew": "marketing",
+      "season": 1
+    },
+    {
+      "rarity": "uncommon",
+      "cost": 4,
+      "attack": 3,
+      "health": 5,
+      "crew": "marketing",
+      "season": 1
+    },
+    {
+      "rarity": "common",
+      "cost": 3,
+      "attack": 2,
+      "health": 4,
+      "crew": "ops",
+      "season": 1
+    },
+    {
+      "rarity": "common",
+      "cost": 3,
+      "attack": 3,
+      "health": 4,
+      "crew": "marketing",
+      "season": 1
+    },
+    {
+      "rarity": "common",
+      "cost": 3,
+      "attack": 3,
+      "health": 3,
+      "crew": "builders",
+      "season": 1
+    },
+    {
+      "rarity": "rare",
+      "cost": 5,
+      "attack": 4,
+      "health": 6,
+      "crew": "marketing",
+      "season": 1
+    },
+    {
+      "rarity": "common",
+      "cost": 3,
+      "attack": 3,
+      "health": 3,
+      "crew": "marketing",
+      "season": 1
+    },
+    {
+      "rarity": "common",
+      "cost": 3,
+      "attack": 2,
+      "health": 4,
+      "crew": "marketing",
+      "season": 1
+    },
+    {
+      "rarity": "rare",
+      "cost": 5,
+      "attack": 4,
+      "health": 6,
+      "crew": "builders",
+      "season": 1
+    },
+    {
+      "rarity": "rare",
+      "cost": 5,
+      "attack": 3,
+      "health": 7,
+      "crew": "marketing",
+      "season": 1
+    },
+    {
+      "rarity": "uncommon",
+      "cost": 4,
+      "attack": 4,
+      "health": 4,
+      "crew": "marketing",
+      "season": 1
+    },
+    {
+      "rarity": "common",
+      "cost": 3,
+      "attack": 2,
+      "health": 6,
+      "crew": "personal",
+      "season": 1
+    },
+    {
+      "rarity": "common",
+      "cost": 3,
+      "attack": 2,
+      "health": 5,
+      "crew": "ops",
+      "season": 1
+    },
+    {
+      "rarity": "common",
+      "cost": 3,
+      "attack": 3,
+      "health": 4,
+      "crew": "builders",
+      "season": 1
+    },
+    {
+      "rarity": "epic",
+      "cost": 6,
+      "attack": 5,
+      "health": 5,
+      "crew": "sales",
+      "season": 2
+    },
+    {
+      "rarity": "rare",
+      "cost": 5,
+      "attack": 4,
+      "health": 6,
+      "crew": "marketing",
+      "season": 2
+    },
+    {
+      "rarity": "rare",
+      "cost": 5,
+      "attack": 3,
+      "health": 5,
+      "crew": "ops",
+      "season": 2
+    },
+    {
+      "rarity": "uncommon",
+      "cost": 4,
+      "attack": 3,
+      "health": 5,
+      "crew": "personal",
+      "season": 2
+    },
+    {
+      "rarity": "uncommon",
+      "cost": 4,
+      "attack": 2,
+      "health": 3,
+      "crew": "ops",
+      "season": 2
+    },
+    {
+      "rarity": "uncommon",
+      "cost": 4,
+      "attack": 3,
+      "health": 4,
+      "crew": "ops",
+      "season": 2
+    },
+    {
+      "rarity": "common",
+      "cost": 3,
+      "attack": 2,
+      "health": 3,
+      "crew": "ops",
+      "season": 2
+    },
+    {
+      "rarity": "common",
+      "cost": 3,
+      "attack": 2,
+      "health": 4,
+      "crew": "builders",
+      "season": 2
+    },
+    {
+      "rarity": "legendary",
+      "cost": 7,
+      "attack": 4,
+      "health": 7,
+      "crew": "sales",
+      "season": 2
+    },
+    {
+      "rarity": "mythic",
+      "cost": 8,
+      "attack": 3,
+      "health": 6,
+      "crew": "personal",
+      "season": 3
+    },
+    {
+      "rarity": "legendary",
+      "cost": 7,
+      "attack": 4,
+      "health": 8,
+      "crew": "marketing",
+      "season": 3
+    },
+    {
+      "rarity": "epic",
+      "cost": 6,
+      "attack": 3,
+      "health": 5,
+      "crew": "personal",
+      "season": 3
+    },
+    {
+      "rarity": "epic",
+      "cost": 6,
+      "attack": 2,
+      "health": 6,
+      "crew": "ops",
+      "season": 3
+    },
+    {
+      "rarity": "rare",
+      "cost": 5,
+      "attack": 2,
+      "health": 4,
+      "crew": "marketing",
+      "season": 3
+    },
+    {
+      "rarity": "rare",
+      "cost": 5,
+      "attack": 3,
+      "health": 5,
+      "crew": "sales",
+      "season": 3
+    },
+    {
+      "rarity": "rare",
+      "cost": 5,
+      "attack": 3,
+      "health": 6,
+      "crew": "marketing",
+      "season": 3
+    },
+    {
+      "rarity": "rare",
+      "cost": 5,
+      "attack": 4,
+      "health": 4,
+      "crew": "personal",
+      "season": 3
+    },
+    {
+      "rarity": "uncommon",
+      "cost": 4,
+      "attack": 2,
+      "health": 5,
+      "crew": "builders",
+      "season": 3
+    },
+    {
+      "rarity": "uncommon",
+      "cost": 4,
+      "attack": 5,
+      "health": 4,
+      "crew": "ops",
+      "season": 3
+    },
+    {
+      "rarity": "uncommon",
+      "cost": 4,
+      "attack": 3,
+      "health": 3,
+      "crew": "ops",
+      "season": 3
+    },
+    {
+      "rarity": "uncommon",
+      "cost": 4,
+      "attack": 2,
+      "health": 5,
+      "crew": "personal",
+      "season": 3
+    },
+    {
+      "rarity": "uncommon",
+      "cost": 4,
+      "attack": 2,
+      "health": 5,
+      "crew": "sales",
+      "season": 3
+    },
+    {
+      "rarity": "uncommon",
+      "cost": 4,
+      "attack": 3,
+      "health": 5,
+      "crew": "ops",
+      "season": 3
+    },
+    {
+      "rarity": "uncommon",
+      "cost": 4,
+      "attack": 4,
+      "health": 3,
+      "crew": "sales",
+      "season": 3
+    },
+    {
+      "rarity": "common",
+      "cost": 3,
+      "attack": 1,
+      "health": 5,
+      "crew": "sales",
+      "season": 3
+    },
+    {
+      "rarity": "common",
+      "cost": 3,
+      "attack": 3,
+      "health": 2,
+      "crew": "builders",
+      "season": 3
+    },
+    {
+      "rarity": "common",
+      "cost": 3,
+      "attack": 2,
+      "health": 5,
+      "crew": "builders",
+      "season": 3
+    },
+    {
+      "rarity": "common",
+      "cost": 3,
+      "attack": 3,
+      "health": 4,
+      "crew": "marketing",
+      "season": 3
+    },
+    {
+      "rarity": "common",
+      "cost": 3,
+      "attack": 2,
+      "health": 4,
+      "crew": "ops",
+      "season": 3
+    },
+    {
+      "rarity": "common",
+      "cost": 3,
+      "attack": 3,
+      "health": 4,
+      "crew": "builders",
+      "season": 3
+    },
+    {
+      "rarity": "common",
+      "cost": 3,
+      "attack": 4,
+      "health": 3,
+      "crew": "builders",
+      "season": 3
+    },
+    {
+      "rarity": "mythic",
+      "cost": 8,
+      "attack": 3,
+      "health": 9,
+      "crew": "builders",
+      "season": 3
+    },
+    {
+      "rarity": "epic",
+      "cost": 6,
+      "attack": 3,
+      "health": 5,
+      "crew": "marketing",
+      "season": 3
+    },
+    {
+      "rarity": "epic",
+      "cost": 6,
+      "attack": 3,
+      "health": 7,
+      "crew": "ops",
+      "season": 3
+    },
+    {
+      "rarity": "epic",
+      "cost": 6,
+      "attack": 3,
+      "health": 5,
+      "crew": "builders",
+      "season": 3
+    },
+    {
+      "rarity": "rare",
+      "cost": 5,
+      "attack": 1,
+      "health": 4,
+      "crew": "personal",
+      "season": 3
+    },
+    {
+      "rarity": "rare",
+      "cost": 5,
+      "attack": 3,
+      "health": 6,
+      "crew": "sales",
+      "season": 3
+    },
+    {
+      "rarity": "rare",
+      "cost": 5,
+      "attack": 4,
+      "health": 5,
+      "crew": "ops",
+      "season": 3
+    },
+    {
+      "rarity": "rare",
+      "cost": 5,
+      "attack": 5,
+      "health": 4,
+      "crew": "personal",
+      "season": 3
+    },
+    {
+      "rarity": "uncommon",
+      "cost": 4,
+      "attack": 3,
+      "health": 5,
+      "crew": "marketing",
+      "season": 3
+    },
+    {
+      "rarity": "uncommon",
+      "cost": 4,
+      "attack": 2,
+      "health": 5,
+      "crew": "sales",
+      "season": 3
+    },
+    {
+      "rarity": "uncommon",
+      "cost": 4,
+      "attack": 2,
+      "health": 5,
+      "crew": "personal",
+      "season": 3
+    },
+    {
+      "rarity": "uncommon",
+      "cost": 4,
+      "attack": 2,
+      "health": 5,
+      "crew": "ops",
+      "season": 3
+    },
+    {
+      "rarity": "uncommon",
+      "cost": 4,
+      "attack": 2,
+      "health": 5,
+      "crew": "builders",
+      "season": 3
+    },
+    {
+      "rarity": "uncommon",
+      "cost": 4,
+      "attack": 2,
+      "health": 5,
+      "crew": "personal",
+      "season": 3
+    },
+    {
+      "rarity": "uncommon",
+      "cost": 4,
+      "attack": 2,
+      "health": 5,
+      "crew": "builders",
+      "season": 3
+    },
+    {
+      "rarity": "common",
+      "cost": 3,
+      "attack": 2,
+      "health": 6,
+      "crew": "ops",
+      "season": 3
+    },
+    {
+      "rarity": "common",
+      "cost": 3,
+      "attack": 4,
+      "health": 4,
+      "crew": "sales",
+      "season": 3
+    },
+    {
+      "rarity": "common",
+      "cost": 3,
+      "attack": 3,
+      "health": 4,
+      "crew": "sales",
+      "season": 3
+    },
+    {
+      "rarity": "common",
+      "cost": 3,
+      "attack": 2,
+      "health": 4,
+      "crew": "marketing",
+      "season": 3
+    },
+    {
+      "rarity": "common",
+      "cost": 3,
+      "attack": 2,
+      "health": 5,
+      "crew": "builders",
+      "season": 3
+    },
+    {
+      "rarity": "legendary",
+      "cost": 7,
+      "attack": 7,
+      "health": 5,
+      "crew": "personal",
+      "season": 3
+    },
+    {
+      "rarity": "epic",
+      "cost": 6,
+      "attack": 4,
+      "health": 3,
+      "crew": "ops",
+      "season": 3
+    },
+    {
+      "rarity": "epic",
+      "cost": 6,
+      "attack": 2,
+      "health": 9,
+      "crew": "ops",
+      "season": 3
+    },
+    {
+      "rarity": "epic",
+      "cost": 6,
+      "attack": 4,
+      "health": 5,
+      "crew": "marketing",
+      "season": 3
+    },
+    {
+      "rarity": "rare",
+      "cost": 5,
+      "attack": 3,
+      "health": 5,
+      "crew": "personal",
+      "season": 3
+    },
+    {
+      "rarity": "rare",
+      "cost": 5,
+      "attack": 3,
+      "health": 5,
+      "crew": "ops",
+      "season": 3
+    },
+    {
+      "rarity": "rare",
+      "cost": 5,
+      "attack": 5,
+      "health": 5,
+      "crew": "builders",
+      "season": 3
+    },
+    {
+      "rarity": "rare",
+      "cost": 5,
+      "attack": 2,
+      "health": 7,
+      "crew": "builders",
+      "season": 3
+    },
+    {
+      "rarity": "uncommon",
+      "cost": 4,
+      "attack": 2,
+      "health": 5,
+      "crew": "ops",
+      "season": 3
+    },
+    {
+      "rarity": "uncommon",
+      "cost": 4,
+      "attack": 3,
+      "health": 5,
+      "crew": "builders",
+      "season": 3
+    },
+    {
+      "rarity": "uncommon",
+      "cost": 4,
+      "attack": 2,
+      "health": 5,
+      "crew": "sales",
+      "season": 3
+    },
+    {
+      "rarity": "uncommon",
+      "cost": 4,
+      "attack": 4,
+      "health": 5,
+      "crew": "personal",
+      "season": 3
+    },
+    {
+      "rarity": "uncommon",
+      "cost": 4,
+      "attack": 3,
+      "health": 5,
+      "crew": "personal",
+      "season": 3
+    },
+    {
+      "rarity": "uncommon",
+      "cost": 4,
+      "attack": 2,
+      "health": 5,
+      "crew": "sales",
+      "season": 3
+    },
+    {
+      "rarity": "common",
+      "cost": 3,
+      "attack": 1,
+      "health": 5,
+      "crew": "builders",
+      "season": 3
+    },
+    {
+      "rarity": "common",
+      "cost": 3,
+      "attack": 2,
+      "health": 6,
+      "crew": "marketing",
+      "season": 3
+    },
+    {
+      "rarity": "common",
+      "cost": 3,
+      "attack": 1,
+      "health": 5,
+      "crew": "sales",
+      "season": 3
+    },
+    {
+      "rarity": "common",
+      "cost": 3,
+      "attack": 1,
+      "health": 5,
+      "crew": "sales",
+      "season": 3
+    },
+    {
+      "rarity": "common",
+      "cost": 3,
+      "attack": 3,
+      "health": 4,
+      "crew": "personal",
+      "season": 3
+    },
+    {
+      "rarity": "common",
+      "cost": 3,
+      "attack": 3,
+      "health": 4,
+      "crew": "marketing",
+      "season": 3
+    },
+    {
+      "rarity": "common",
+      "cost": 3,
+      "attack": 1,
+      "health": 5,
+      "crew": "builders",
+      "season": 3
+    },
+    {
+      "rarity": "common",
+      "cost": 3,
+      "attack": 4,
+      "health": 3,
+      "crew": "marketing",
+      "season": 3
+    },
+    {
+      "rarity": "legendary",
+      "cost": 7,
+      "attack": 5,
+      "health": 6,
+      "crew": "marketing",
+      "season": 3
+    },
+    {
+      "rarity": "epic",
+      "cost": 6,
+      "attack": 4,
+      "health": 5,
+      "crew": "personal",
+      "season": 3
+    },
+    {
+      "rarity": "epic",
+      "cost": 6,
+      "attack": 4,
+      "health": 8,
+      "crew": "ops",
+      "season": 3
+    },
+    {
+      "rarity": "rare",
+      "cost": 5,
+      "attack": 3,
+      "health": 5,
+      "crew": "sales",
+      "season": 3
+    },
+    {
+      "rarity": "rare",
+      "cost": 5,
+      "attack": 3,
+      "health": 5,
+      "crew": "personal",
+      "season": 3
+    },
+    {
+      "rarity": "rare",
+      "cost": 5,
+      "attack": 2,
+      "health": 4,
+      "crew": "builders",
+      "season": 3
+    },
+    {
+      "rarity": "uncommon",
+      "cost": 4,
+      "attack": 3,
+      "health": 4,
+      "crew": "builders",
+      "season": 3
+    },
+    {
+      "rarity": "uncommon",
+      "cost": 4,
+      "attack": 3,
+      "health": 6,
+      "crew": "marketing",
+      "season": 3
+    },
+    {
+      "rarity": "uncommon",
+      "cost": 4,
+      "attack": 2,
+      "health": 5,
+      "crew": "marketing",
+      "season": 3
+    },
+    {
+      "rarity": "uncommon",
+      "cost": 4,
+      "attack": 2,
+      "health": 5,
+      "crew": "builders",
+      "season": 3
+    },
+    {
+      "rarity": "common",
+      "cost": 3,
+      "attack": 2,
+      "health": 3,
+      "crew": "builders",
+      "season": 3
+    },
+    {
+      "rarity": "common",
+      "cost": 3,
+      "attack": 3,
+      "health": 4,
+      "crew": "sales",
+      "season": 3
+    },
+    {
+      "rarity": "common",
+      "cost": 3,
+      "attack": 1,
+      "health": 5,
+      "crew": "personal",
+      "season": 3
+    },
+    {
+      "rarity": "common",
+      "cost": 3,
+      "attack": 4,
+      "health": 4,
+      "crew": "ops",
+      "season": 3
+    },
+    {
+      "rarity": "common",
+      "cost": 3,
+      "attack": 3,
+      "health": 3,
+      "crew": "marketing",
+      "season": 3
+    },
+    {
+      "rarity": "common",
+      "cost": 3,
+      "attack": 3,
+      "health": 4,
+      "crew": "ops",
+      "season": 3
+    },
+    {
+      "rarity": "common",
+      "cost": 3,
+      "attack": 1,
+      "health": 3,
+      "crew": "ops",
+      "season": 3
+    },
+    {
+      "rarity": "legendary",
+      "cost": 7,
+      "attack": 5,
+      "health": 6,
+      "crew": "marketing",
+      "season": 3
+    },
+    {
+      "rarity": "epic",
+      "cost": 6,
+      "attack": 5,
+      "health": 5,
+      "crew": "marketing",
+      "season": 3
+    },
+    {
+      "rarity": "rare",
+      "cost": 5,
+      "attack": 3,
+      "health": 5,
+      "crew": "builders",
+      "season": 3
+    },
+    {
+      "rarity": "rare",
+      "cost": 5,
+      "attack": 5,
+      "health": 4,
+      "crew": "builders",
+      "season": 3
+    },
+    {
+      "rarity": "rare",
+      "cost": 5,
+      "attack": 2,
+      "health": 4,
+      "crew": "personal",
+      "season": 3
+    },
+    {
+      "rarity": "rare",
+      "cost": 5,
+      "attack": 4,
+      "health": 5,
+      "crew": "marketing",
+      "season": 3
+    },
+    {
+      "rarity": "rare",
+      "cost": 5,
+      "attack": 4,
+      "health": 6,
+      "crew": "marketing",
+      "season": 3
+    },
+    {
+      "rarity": "uncommon",
+      "cost": 4,
+      "attack": 4,
+      "health": 4,
+      "crew": "builders",
+      "season": 3
+    },
+    {
+      "rarity": "uncommon",
+      "cost": 4,
+      "attack": 2,
+      "health": 5,
+      "crew": "sales",
+      "season": 3
+    },
+    {
+      "rarity": "uncommon",
+      "cost": 4,
+      "attack": 2,
+      "health": 5,
+      "crew": "ops",
+      "season": 3
+    },
+    {
+      "rarity": "uncommon",
+      "cost": 4,
+      "attack": 3,
+      "health": 5,
+      "crew": "personal",
+      "season": 3
+    },
+    {
+      "rarity": "uncommon",
+      "cost": 4,
+      "attack": 3,
+      "health": 4,
+      "crew": "builders",
+      "season": 3
+    },
+    {
+      "rarity": "common",
+      "cost": 3,
+      "attack": 2,
+      "health": 3,
+      "crew": "personal",
+      "season": 3
+    },
+    {
+      "rarity": "common",
+      "cost": 3,
+      "attack": 3,
+      "health": 3,
+      "crew": "personal",
+      "season": 3
+    },
+    {
+      "rarity": "common",
+      "cost": 3,
+      "attack": 3,
+      "health": 4,
+      "crew": "personal",
+      "season": 3
+    },
+    {
+      "rarity": "common",
+      "cost": 3,
+      "attack": 2,
+      "health": 5,
+      "crew": "ops",
+      "season": 3
+    },
+    {
+      "rarity": "common",
+      "cost": 3,
+      "attack": 3,
+      "health": 4,
+      "crew": "ops",
+      "season": 3
+    },
+    {
+      "rarity": "mythic",
+      "cost": 8,
+      "attack": 4,
+      "health": 6,
+      "crew": "sales",
+      "season": 4
+    },
+    {
+      "rarity": "mythic",
+      "cost": 8,
+      "attack": 5,
+      "health": 7,
+      "crew": "marketing",
+      "season": 4
+    },
+    {
+      "rarity": "legendary",
+      "cost": 7,
+      "attack": 4,
+      "health": 6,
+      "crew": "personal",
+      "season": 4
+    },
+    {
+      "rarity": "legendary",
+      "cost": 7,
+      "attack": 3,
+      "health": 9,
+      "crew": "ops",
+      "season": 4
+    },
+    {
+      "rarity": "epic",
+      "cost": 6,
+      "attack": 4,
+      "health": 7,
+      "crew": "builders",
+      "season": 4
+    },
+    {
+      "rarity": "epic",
+      "cost": 6,
+      "attack": 4,
+      "health": 7,
+      "crew": "marketing",
+      "season": 4
+    },
+    {
+      "rarity": "epic",
+      "cost": 6,
+      "attack": 3,
+      "health": 5,
+      "crew": "sales",
+      "season": 4
+    },
+    {
+      "rarity": "epic",
+      "cost": 6,
+      "attack": 4,
+      "health": 7,
+      "crew": "builders",
+      "season": 4
+    },
+    {
+      "rarity": "epic",
+      "cost": 6,
+      "attack": 4,
+      "health": 6,
+      "crew": "ops",
+      "season": 4
+    },
+    {
+      "rarity": "epic",
+      "cost": 6,
+      "attack": 6,
+      "health": 5,
+      "crew": "builders",
+      "season": 4
+    },
+    {
+      "rarity": "rare",
+      "cost": 5,
+      "attack": 4,
+      "health": 5,
+      "crew": "marketing",
+      "season": 4
+    },
+    {
+      "rarity": "rare",
+      "cost": 5,
+      "attack": 3,
+      "health": 5,
+      "crew": "ops",
+      "season": 4
+    },
+    {
+      "rarity": "rare",
+      "cost": 5,
+      "attack": 4,
+      "health": 6,
+      "crew": "sales",
+      "season": 4
+    },
+    {
+      "rarity": "rare",
+      "cost": 5,
+      "attack": 4,
+      "health": 7,
+      "crew": "personal",
+      "season": 4
+    },
+    {
+      "rarity": "rare",
+      "cost": 5,
+      "attack": 3,
+      "health": 6,
+      "crew": "builders",
+      "season": 4
+    },
+    {
+      "rarity": "rare",
+      "cost": 5,
+      "attack": 5,
+      "health": 5,
+      "crew": "builders",
+      "season": 4
+    },
+    {
+      "rarity": "rare",
+      "cost": 5,
+      "attack": 3,
+      "health": 5,
+      "crew": "personal",
+      "season": 4
+    },
+    {
+      "rarity": "rare",
+      "cost": 5,
+      "attack": 3,
+      "health": 7,
+      "crew": "builders",
+      "season": 4
+    },
+    {
+      "rarity": "rare",
+      "cost": 5,
+      "attack": 4,
+      "health": 6,
+      "crew": "sales",
+      "season": 4
+    },
+    {
+      "rarity": "rare",
+      "cost": 5,
+      "attack": 4,
+      "health": 7,
+      "crew": "personal",
+      "season": 4
+    },
+    {
+      "rarity": "uncommon",
+      "cost": 4,
+      "attack": 3,
+      "health": 6,
+      "crew": "personal",
+      "season": 4
+    },
+    {
+      "rarity": "uncommon",
+      "cost": 4,
+      "attack": 3,
+      "health": 6,
+      "crew": "personal",
+      "season": 4
+    },
+    {
+      "rarity": "uncommon",
+      "cost": 4,
+      "attack": 3,
+      "health": 6,
+      "crew": "personal",
+      "season": 4
+    },
+    {
+      "rarity": "uncommon",
+      "cost": 4,
+      "attack": 3,
+      "health": 6,
+      "crew": "marketing",
+      "season": 4
+    },
+    {
+      "rarity": "uncommon",
+      "cost": 4,
+      "attack": 2,
+      "health": 5,
+      "crew": "sales",
+      "season": 4
+    },
+    {
+      "rarity": "uncommon",
+      "cost": 4,
+      "attack": 4,
+      "health": 5,
+      "crew": "ops",
+      "season": 4
+    },
+    {
+      "rarity": "uncommon",
+      "cost": 4,
+      "attack": 3,
+      "health": 5,
+      "crew": "sales",
+      "season": 4
+    },
+    {
+      "rarity": "uncommon",
+      "cost": 4,
+      "attack": 2,
+      "health": 5,
+      "crew": "ops",
+      "season": 4
+    },
+    {
+      "rarity": "uncommon",
+      "cost": 4,
+      "attack": 3,
+      "health": 4,
+      "crew": "personal",
+      "season": 4
+    },
+    {
+      "rarity": "uncommon",
+      "cost": 4,
+      "attack": 3,
+      "health": 4,
+      "crew": "personal",
+      "season": 4
+    },
+    {
+      "rarity": "uncommon",
+      "cost": 4,
+      "attack": 2,
+      "health": 7,
+      "crew": "personal",
+      "season": 4
+    },
+    {
+      "rarity": "uncommon",
+      "cost": 4,
+      "attack": 2,
+      "health": 6,
+      "crew": "marketing",
+      "season": 4
+    },
+    {
+      "rarity": "uncommon",
+      "cost": 4,
+      "attack": 3,
+      "health": 6,
+      "crew": "builders",
+      "season": 4
+    },
+    {
+      "rarity": "uncommon",
+      "cost": 4,
+      "attack": 3,
+      "health": 5,
+      "crew": "ops",
+      "season": 4
+    },
+    {
+      "rarity": "common",
+      "cost": 3,
+      "attack": 2,
+      "health": 4,
+      "crew": "marketing",
+      "season": 4
+    },
+    {
+      "rarity": "common",
+      "cost": 3,
+      "attack": 3,
+      "health": 5,
+      "crew": "personal",
+      "season": 4
+    },
+    {
+      "rarity": "common",
+      "cost": 3,
+      "attack": 3,
+      "health": 5,
+      "crew": "ops",
+      "season": 4
+    },
+    {
+      "rarity": "common",
+      "cost": 3,
+      "attack": 3,
+      "health": 5,
+      "crew": "builders",
+      "season": 4
+    },
+    {
+      "rarity": "common",
+      "cost": 3,
+      "attack": 3,
+      "health": 5,
+      "crew": "marketing",
+      "season": 4
+    },
+    {
+      "rarity": "common",
+      "cost": 3,
+      "attack": 3,
+      "health": 5,
+      "crew": "ops",
+      "season": 4
+    },
+    {
+      "rarity": "common",
+      "cost": 3,
+      "attack": 2,
+      "health": 6,
+      "crew": "ops",
+      "season": 4
+    },
+    {
+      "rarity": "common",
+      "cost": 3,
+      "attack": 2,
+      "health": 5,
+      "crew": "marketing",
+      "season": 4
+    },
+    {
+      "rarity": "common",
+      "cost": 3,
+      "attack": 3,
+      "health": 5,
+      "crew": "ops",
+      "season": 4
+    },
+    {
+      "rarity": "common",
+      "cost": 3,
+      "attack": 2,
+      "health": 5,
+      "crew": "builders",
+      "season": 4
+    },
+    {
+      "rarity": "common",
+      "cost": 3,
+      "attack": 3,
+      "health": 5,
+      "crew": "personal",
+      "season": 4
+    },
+    {
+      "rarity": "common",
+      "cost": 3,
+      "attack": 2,
+      "health": 4,
+      "crew": "marketing",
+      "season": 4
+    },
+    {
+      "rarity": "common",
+      "cost": 3,
+      "attack": 2,
+      "health": 6,
+      "crew": "personal",
+      "season": 4
+    },
+    {
+      "rarity": "common",
+      "cost": 3,
+      "attack": 2,
+      "health": 5,
+      "crew": "builders",
+      "season": 4
+    },
+    {
+      "rarity": "common",
+      "cost": 3,
+      "attack": 2,
+      "health": 4,
+      "crew": "sales",
+      "season": 4
+    },
+    {
+      "rarity": "common",
+      "cost": 3,
+      "attack": 2,
+      "health": 4,
+      "crew": "sales",
+      "season": 4
+    },
+    {
+      "rarity": "mythic",
+      "cost": 8,
+      "attack": 3,
+      "health": 7,
+      "crew": "ops",
+      "season": 4
+    },
+    {
+      "rarity": "mythic",
+      "cost": 8,
+      "attack": 2,
+      "health": 6,
+      "crew": "builders",
+      "season": 4
+    },
+    {
+      "rarity": "legendary",
+      "cost": 7,
+      "attack": 3,
+      "health": 6,
+      "crew": "builders",
+      "season": 4
+    },
+    {
+      "rarity": "legendary",
+      "cost": 7,
+      "attack": 4,
+      "health": 5,
+      "crew": "ops",
+      "season": 4
+    },
+    {
+      "rarity": "epic",
+      "cost": 6,
+      "attack": 5,
+      "health": 6,
+      "crew": "sales",
+      "season": 4
+    },
+    {
+      "rarity": "epic",
+      "cost": 6,
+      "attack": 5,
+      "health": 6,
+      "crew": "builders",
+      "season": 4
+    },
+    {
+      "rarity": "epic",
+      "cost": 6,
+      "attack": 3,
+      "health": 6,
+      "crew": "ops",
+      "season": 4
+    },
+    {
+      "rarity": "epic",
+      "cost": 6,
+      "attack": 2,
+      "health": 4,
+      "crew": "ops",
+      "season": 4
+    },
+    {
+      "rarity": "epic",
+      "cost": 6,
+      "attack": 2,
+      "health": 9,
+      "crew": "sales",
+      "season": 4
+    },
+    {
+      "rarity": "epic",
+      "cost": 6,
+      "attack": 4,
+      "health": 6,
+      "crew": "marketing",
+      "season": 4
+    },
+    {
+      "rarity": "rare",
+      "cost": 5,
+      "attack": 3,
+      "health": 6,
+      "crew": "ops",
+      "season": 4
+    },
+    {
+      "rarity": "rare",
+      "cost": 5,
+      "attack": 2,
+      "health": 6,
+      "crew": "personal",
+      "season": 4
+    },
+    {
+      "rarity": "rare",
+      "cost": 5,
+      "attack": 3,
+      "health": 7,
+      "crew": "ops",
+      "season": 4
+    },
+    {
+      "rarity": "rare",
+      "cost": 5,
+      "attack": 2,
+      "health": 5,
+      "crew": "marketing",
+      "season": 4
+    },
+    {
+      "rarity": "rare",
+      "cost": 5,
+      "attack": 3,
+      "health": 6,
+      "crew": "sales",
+      "season": 4
+    },
+    {
+      "rarity": "rare",
+      "cost": 5,
+      "attack": 2,
+      "health": 5,
+      "crew": "personal",
+      "season": 4
+    },
+    {
+      "rarity": "rare",
+      "cost": 5,
+      "attack": 4,
+      "health": 7,
+      "crew": "builders",
+      "season": 4
+    },
+    {
+      "rarity": "rare",
+      "cost": 5,
+      "attack": 4,
+      "health": 7,
+      "crew": "marketing",
+      "season": 4
+    },
+    {
+      "rarity": "rare",
+      "cost": 5,
+      "attack": 3,
+      "health": 7,
+      "crew": "personal",
+      "season": 4
+    },
+    {
+      "rarity": "rare",
+      "cost": 5,
+      "attack": 2,
+      "health": 4,
+      "crew": "sales",
+      "season": 4
+    },
+    {
+      "rarity": "uncommon",
+      "cost": 4,
+      "attack": 3,
+      "health": 6,
+      "crew": "sales",
+      "season": 4
+    },
+    {
+      "rarity": "uncommon",
+      "cost": 4,
+      "attack": 3,
+      "health": 5,
+      "crew": "marketing",
+      "season": 4
+    },
+    {
+      "rarity": "uncommon",
+      "cost": 4,
+      "attack": 2,
+      "health": 5,
+      "crew": "sales",
+      "season": 4
+    },
+    {
+      "rarity": "uncommon",
+      "cost": 4,
+      "attack": 2,
+      "health": 4,
+      "crew": "sales",
+      "season": 4
+    },
+    {
+      "rarity": "uncommon",
+      "cost": 4,
+      "attack": 2,
+      "health": 5,
+      "crew": "ops",
+      "season": 4
+    },
+    {
+      "rarity": "uncommon",
+      "cost": 4,
+      "attack": 2,
+      "health": 5,
+      "crew": "personal",
+      "season": 4
+    },
+    {
+      "rarity": "uncommon",
+      "cost": 4,
+      "attack": 3,
+      "health": 5,
+      "crew": "ops",
+      "season": 4
+    },
+    {
+      "rarity": "uncommon",
+      "cost": 4,
+      "attack": 3,
+      "health": 5,
+      "crew": "sales",
+      "season": 4
+    },
+    {
+      "rarity": "uncommon",
+      "cost": 4,
+      "attack": 2,
+      "health": 7,
+      "crew": "personal",
+      "season": 4
+    },
+    {
+      "rarity": "uncommon",
+      "cost": 4,
+      "attack": 3,
+      "health": 6,
+      "crew": "personal",
+      "season": 4
+    },
+    {
+      "rarity": "uncommon",
+      "cost": 4,
+      "attack": 3,
+      "health": 5,
+      "crew": "marketing",
+      "season": 4
+    },
+    {
+      "rarity": "uncommon",
+      "cost": 4,
+      "attack": 3,
+      "health": 6,
+      "crew": "personal",
+      "season": 4
+    },
+    {
+      "rarity": "uncommon",
+      "cost": 4,
+      "attack": 3,
+      "health": 6,
+      "crew": "ops",
+      "season": 4
+    },
+    {
+      "rarity": "uncommon",
+      "cost": 4,
+      "attack": 3,
+      "health": 6,
+      "crew": "sales",
+      "season": 4
+    },
+    {
+      "rarity": "common",
+      "cost": 3,
+      "attack": 3,
+      "health": 5,
+      "crew": "personal",
+      "season": 4
+    },
+    {
+      "rarity": "common",
+      "cost": 3,
+      "attack": 2,
+      "health": 5,
+      "crew": "ops",
+      "season": 4
+    },
+    {
+      "rarity": "common",
+      "cost": 3,
+      "attack": 3,
+      "health": 5,
+      "crew": "sales",
+      "season": 4
+    },
+    {
+      "rarity": "common",
+      "cost": 3,
+      "attack": 1,
+      "health": 5,
+      "crew": "personal",
+      "season": 4
+    },
+    {
+      "rarity": "common",
+      "cost": 3,
+      "attack": 1,
+      "health": 3,
+      "crew": "personal",
+      "season": 4
+    },
+    {
+      "rarity": "common",
+      "cost": 3,
+      "attack": 2,
+      "health": 6,
+      "crew": "ops",
+      "season": 4
+    },
+    {
+      "rarity": "common",
+      "cost": 3,
+      "attack": 1,
+      "health": 4,
+      "crew": "sales",
+      "season": 4
+    },
+    {
+      "rarity": "common",
+      "cost": 3,
+      "attack": 3,
+      "health": 5,
+      "crew": "personal",
+      "season": 4
+    },
+    {
+      "rarity": "common",
+      "cost": 3,
+      "attack": 2,
+      "health": 6,
+      "crew": "marketing",
+      "season": 4
+    },
+    {
+      "rarity": "common",
+      "cost": 3,
+      "attack": 3,
+      "health": 5,
+      "crew": "personal",
+      "season": 4
+    },
+    {
+      "rarity": "common",
+      "cost": 3,
+      "attack": 3,
+      "health": 5,
+      "crew": "builders",
+      "season": 4
+    },
+    {
+      "rarity": "common",
+      "cost": 3,
+      "attack": 3,
+      "health": 5,
+      "crew": "marketing",
+      "season": 4
+    },
+    {
+      "rarity": "common",
+      "cost": 3,
+      "attack": 3,
+      "health": 5,
+      "crew": "builders",
+      "season": 4
+    },
+    {
+      "rarity": "common",
+      "cost": 3,
+      "attack": 2,
+      "health": 5,
+      "crew": "ops",
+      "season": 4
+    },
+    {
+      "rarity": "common",
+      "cost": 3,
+      "attack": 3,
+      "health": 5,
+      "crew": "builders",
+      "season": 4
+    },
+    {
+      "rarity": "common",
+      "cost": 3,
+      "attack": 2,
+      "health": 6,
+      "crew": "personal",
+      "season": 4
+    },
+    {
+      "rarity": "mythic",
+      "cost": 8,
+      "attack": 5,
+      "health": 7,
+      "crew": "sales",
+      "season": 5
+    },
+    {
+      "rarity": "mythic",
+      "cost": 8,
+      "attack": 5,
+      "health": 7,
+      "crew": "sales",
+      "season": 5
+    },
+    {
+      "rarity": "mythic",
+      "cost": 8,
+      "attack": 4,
+      "health": 6,
+      "crew": "marketing",
+      "season": 5
+    },
+    {
+      "rarity": "mythic",
+      "cost": 8,
+      "attack": 4,
+      "health": 6,
+      "crew": "marketing",
+      "season": 5
+    },
+    {
+      "rarity": "mythic",
+      "cost": 8,
+      "attack": 3,
+      "health": 7,
+      "crew": "builders",
+      "season": 5
+    },
+    {
+      "rarity": "mythic",
+      "cost": 8,
+      "attack": 3,
+      "health": 8,
+      "crew": "builders",
+      "season": 5
+    },
+    {
+      "rarity": "mythic",
+      "cost": 8,
+      "attack": 4,
+      "health": 8,
+      "crew": "personal",
+      "season": 5
+    },
+    {
+      "rarity": "legendary",
+      "cost": 7,
+      "attack": 2,
+      "health": 8,
+      "crew": "sales",
+      "season": 5
+    },
+    {
+      "rarity": "legendary",
+      "cost": 7,
+      "attack": 3,
+      "health": 9,
+      "crew": "marketing",
+      "season": 5
+    },
+    {
+      "rarity": "legendary",
+      "cost": 7,
+      "attack": 3,
+      "health": 9,
+      "crew": "builders",
+      "season": 5
+    },
+    {
+      "rarity": "legendary",
+      "cost": 7,
+      "attack": 4,
+      "health": 7,
+      "crew": "personal",
+      "season": 5
+    },
+    {
+      "rarity": "legendary",
+      "cost": 7,
+      "attack": 3,
+      "health": 8,
+      "crew": "personal",
+      "season": 5
+    },
+    {
+      "rarity": "legendary",
+      "cost": 7,
+      "attack": 3,
+      "health": 8,
+      "crew": "ops",
+      "season": 5
+    },
+    {
+      "rarity": "epic",
+      "cost": 6,
+      "attack": 5,
+      "health": 5,
+      "crew": "sales",
+      "season": 5
+    },
+    {
+      "rarity": "epic",
+      "cost": 6,
+      "attack": 2,
+      "health": 2,
+      "crew": "sales",
+      "season": 5
+    },
+    {
+      "rarity": "epic",
+      "cost": 6,
+      "attack": 6,
+      "health": 5,
+      "crew": "sales",
+      "season": 5
+    },
+    {
+      "rarity": "epic",
+      "cost": 6,
+      "attack": 6,
+      "health": 5,
+      "crew": "sales",
+      "season": 5
+    },
+    {
+      "rarity": "epic",
+      "cost": 6,
+      "attack": 5,
+      "health": 6,
+      "crew": "marketing",
+      "season": 5
+    },
+    {
+      "rarity": "epic",
+      "cost": 6,
+      "attack": 3,
+      "health": 4,
+      "crew": "marketing",
+      "season": 5
+    },
+    {
+      "rarity": "epic",
+      "cost": 6,
+      "attack": 4,
+      "health": 8,
+      "crew": "marketing",
+      "season": 5
+    },
+    {
+      "rarity": "epic",
+      "cost": 6,
+      "attack": 3,
+      "health": 9,
+      "crew": "marketing",
+      "season": 5
+    },
+    {
+      "rarity": "epic",
+      "cost": 6,
+      "attack": 4,
+      "health": 7,
+      "crew": "builders",
+      "season": 5
+    },
+    {
+      "rarity": "epic",
+      "cost": 6,
+      "attack": 3,
+      "health": 7,
+      "crew": "builders",
+      "season": 5
+    },
+    {
+      "rarity": "epic",
+      "cost": 6,
+      "attack": 4,
+      "health": 6,
+      "crew": "builders",
+      "season": 5
+    },
+    {
+      "rarity": "epic",
+      "cost": 6,
+      "attack": 5,
+      "health": 7,
+      "crew": "builders",
+      "season": 5
+    },
+    {
+      "rarity": "epic",
+      "cost": 6,
+      "attack": 3,
+      "health": 6,
+      "crew": "personal",
+      "season": 5
+    },
+    {
+      "rarity": "epic",
+      "cost": 6,
+      "attack": 4,
+      "health": 6,
+      "crew": "personal",
+      "season": 5
+    },
+    {
+      "rarity": "epic",
+      "cost": 6,
+      "attack": 4,
+      "health": 6,
+      "crew": "personal",
+      "season": 5
+    },
+    {
+      "rarity": "epic",
+      "cost": 6,
+      "attack": 4,
+      "health": 6,
+      "crew": "personal",
+      "season": 5
+    },
+    {
+      "rarity": "epic",
+      "cost": 6,
+      "attack": 1,
+      "health": 8,
+      "crew": "ops",
+      "season": 5
+    },
+    {
+      "rarity": "epic",
+      "cost": 6,
+      "attack": 5,
+      "health": 7,
+      "crew": "ops",
+      "season": 5
+    },
+    {
+      "rarity": "epic",
+      "cost": 6,
+      "attack": 4,
+      "health": 6,
+      "crew": "ops",
+      "season": 5
+    },
+    {
+      "rarity": "rare",
+      "cost": 5,
+      "attack": 5,
+      "health": 5,
+      "crew": "sales",
+      "season": 5
+    },
+    {
+      "rarity": "rare",
+      "cost": 5,
+      "attack": 4,
+      "health": 5,
+      "crew": "sales",
+      "season": 5
+    },
+    {
+      "rarity": "rare",
+      "cost": 5,
+      "attack": 4,
+      "health": 6,
+      "crew": "sales",
+      "season": 5
+    },
+    {
+      "rarity": "rare",
+      "cost": 5,
+      "attack": 4,
+      "health": 5,
+      "crew": "sales",
+      "season": 5
+    },
+    {
+      "rarity": "rare",
+      "cost": 5,
+      "attack": 5,
+      "health": 5,
+      "crew": "sales",
+      "season": 5
+    },
+    {
+      "rarity": "rare",
+      "cost": 5,
+      "attack": 4,
+      "health": 7,
+      "crew": "sales",
+      "season": 5
+    },
+    {
+      "rarity": "rare",
+      "cost": 5,
+      "attack": 4,
+      "health": 6,
+      "crew": "sales",
+      "season": 5
+    },
+    {
+      "rarity": "rare",
+      "cost": 5,
+      "attack": 4,
+      "health": 6,
+      "crew": "marketing",
+      "season": 5
+    },
+    {
+      "rarity": "rare",
+      "cost": 5,
+      "attack": 3,
+      "health": 6,
+      "crew": "marketing",
+      "season": 5
+    },
+    {
+      "rarity": "rare",
+      "cost": 5,
+      "attack": 4,
+      "health": 6,
+      "crew": "marketing",
+      "season": 5
+    },
+    {
+      "rarity": "rare",
+      "cost": 5,
+      "attack": 4,
+      "health": 6,
+      "crew": "marketing",
+      "season": 5
+    },
+    {
+      "rarity": "rare",
+      "cost": 5,
+      "attack": 3,
+      "health": 6,
+      "crew": "marketing",
+      "season": 5
+    },
+    {
+      "rarity": "rare",
+      "cost": 5,
+      "attack": 4,
+      "health": 7,
+      "crew": "marketing",
+      "season": 5
+    },
+    {
+      "rarity": "rare",
+      "cost": 5,
+      "attack": 3,
+      "health": 6,
+      "crew": "builders",
+      "season": 5
+    },
+    {
+      "rarity": "rare",
+      "cost": 5,
+      "attack": 3,
+      "health": 6,
+      "crew": "builders",
+      "season": 5
+    },
+    {
+      "rarity": "rare",
+      "cost": 5,
+      "attack": 3,
+      "health": 7,
+      "crew": "builders",
+      "season": 5
+    },
+    {
+      "rarity": "rare",
+      "cost": 5,
+      "attack": 4,
+      "health": 7,
+      "crew": "builders",
+      "season": 5
+    },
+    {
+      "rarity": "rare",
+      "cost": 5,
+      "attack": 4,
+      "health": 7,
+      "crew": "builders",
+      "season": 5
+    },
+    {
+      "rarity": "rare",
+      "cost": 5,
+      "attack": 3,
+      "health": 6,
+      "crew": "builders",
+      "season": 5
+    },
+    {
+      "rarity": "rare",
+      "cost": 5,
+      "attack": 3,
+      "health": 6,
+      "crew": "personal",
+      "season": 5
+    },
+    {
+      "rarity": "rare",
+      "cost": 5,
+      "attack": 3,
+      "health": 6,
+      "crew": "personal",
+      "season": 5
+    },
+    {
+      "rarity": "rare",
+      "cost": 5,
+      "attack": 4,
+      "health": 7,
+      "crew": "personal",
+      "season": 5
+    },
+    {
+      "rarity": "rare",
+      "cost": 5,
+      "attack": 3,
+      "health": 6,
+      "crew": "personal",
+      "season": 5
+    },
+    {
+      "rarity": "rare",
+      "cost": 5,
+      "attack": 3,
+      "health": 6,
+      "crew": "personal",
+      "season": 5
+    },
+    {
+      "rarity": "rare",
+      "cost": 5,
+      "attack": 3,
+      "health": 6,
+      "crew": "personal",
+      "season": 5
+    },
+    {
+      "rarity": "rare",
+      "cost": 5,
+      "attack": 4,
+      "health": 7,
+      "crew": "personal",
+      "season": 5
+    },
+    {
+      "rarity": "rare",
+      "cost": 5,
+      "attack": 3,
+      "health": 7,
+      "crew": "ops",
+      "season": 5
+    },
+    {
+      "rarity": "rare",
+      "cost": 5,
+      "attack": 3,
+      "health": 7,
+      "crew": "ops",
+      "season": 5
+    },
+    {
+      "rarity": "rare",
+      "cost": 5,
+      "attack": 3,
+      "health": 7,
+      "crew": "ops",
+      "season": 5
+    },
+    {
+      "rarity": "rare",
+      "cost": 5,
+      "attack": 3,
+      "health": 7,
+      "crew": "ops",
+      "season": 5
+    },
+    {
+      "rarity": "rare",
+      "cost": 5,
+      "attack": 3,
+      "health": 7,
+      "crew": "ops",
+      "season": 5
+    },
+    {
+      "rarity": "rare",
+      "cost": 5,
+      "attack": 2,
+      "health": 6,
+      "crew": "ops",
+      "season": 5
+    },
+    {
+      "rarity": "uncommon",
+      "cost": 4,
+      "attack": 3,
+      "health": 5,
+      "crew": "sales",
+      "season": 5
+    },
+    {
+      "rarity": "uncommon",
+      "cost": 4,
+      "attack": 3,
+      "health": 5,
+      "crew": "sales",
+      "season": 5
+    },
+    {
+      "rarity": "uncommon",
+      "cost": 4,
+      "attack": 3,
+      "health": 5,
+      "crew": "sales",
+      "season": 5
+    },
+    {
+      "rarity": "uncommon",
+      "cost": 4,
+      "attack": 3,
+      "health": 5,
+      "crew": "sales",
+      "season": 5
+    },
+    {
+      "rarity": "uncommon",
+      "cost": 4,
+      "attack": 4,
+      "health": 5,
+      "crew": "sales",
+      "season": 5
+    },
+    {
+      "rarity": "uncommon",
+      "cost": 4,
+      "attack": 3,
+      "health": 5,
+      "crew": "sales",
+      "season": 5
+    },
+    {
+      "rarity": "uncommon",
+      "cost": 4,
+      "attack": 3,
+      "health": 5,
+      "crew": "sales",
+      "season": 5
+    },
+    {
+      "rarity": "uncommon",
+      "cost": 4,
+      "attack": 4,
+      "health": 5,
+      "crew": "sales",
+      "season": 5
+    },
+    {
+      "rarity": "uncommon",
+      "cost": 4,
+      "attack": 3,
+      "health": 4,
+      "crew": "sales",
+      "season": 5
+    },
+    {
+      "rarity": "uncommon",
+      "cost": 4,
+      "attack": 3,
+      "health": 5,
+      "crew": "marketing",
+      "season": 5
+    },
+    {
+      "rarity": "uncommon",
+      "cost": 4,
+      "attack": 3,
+      "health": 5,
+      "crew": "marketing",
+      "season": 5
+    },
+    {
+      "rarity": "uncommon",
+      "cost": 4,
+      "attack": 4,
+      "health": 5,
+      "crew": "marketing",
+      "season": 5
+    },
+    {
+      "rarity": "uncommon",
+      "cost": 4,
+      "attack": 3,
+      "health": 4,
+      "crew": "marketing",
+      "season": 5
+    },
+    {
+      "rarity": "uncommon",
+      "cost": 4,
+      "attack": 4,
+      "health": 5,
+      "crew": "marketing",
+      "season": 5
+    },
+    {
+      "rarity": "uncommon",
+      "cost": 4,
+      "attack": 3,
+      "health": 5,
+      "crew": "marketing",
+      "season": 5
+    },
+    {
+      "rarity": "uncommon",
+      "cost": 4,
+      "attack": 3,
+      "health": 4,
+      "crew": "marketing",
+      "season": 5
+    },
+    {
+      "rarity": "uncommon",
+      "cost": 4,
+      "attack": 3,
+      "health": 5,
+      "crew": "marketing",
+      "season": 5
+    },
+    {
+      "rarity": "uncommon",
+      "cost": 4,
+      "attack": 3,
+      "health": 5,
+      "crew": "marketing",
+      "season": 5
+    },
+    {
+      "rarity": "uncommon",
+      "cost": 4,
+      "attack": 3,
+      "health": 6,
+      "crew": "builders",
+      "season": 5
+    },
+    {
+      "rarity": "uncommon",
+      "cost": 4,
+      "attack": 2,
+      "health": 5,
+      "crew": "builders",
+      "season": 5
+    },
+    {
+      "rarity": "uncommon",
+      "cost": 4,
+      "attack": 3,
+      "health": 6,
+      "crew": "builders",
+      "season": 5
+    },
+    {
+      "rarity": "uncommon",
+      "cost": 4,
+      "attack": 3,
+      "health": 6,
+      "crew": "builders",
+      "season": 5
+    },
+    {
+      "rarity": "uncommon",
+      "cost": 4,
+      "attack": 3,
+      "health": 6,
+      "crew": "builders",
+      "season": 5
+    },
+    {
+      "rarity": "uncommon",
+      "cost": 4,
+      "attack": 2,
+      "health": 5,
+      "crew": "builders",
+      "season": 5
+    },
+    {
+      "rarity": "uncommon",
+      "cost": 4,
+      "attack": 3,
+      "health": 6,
+      "crew": "builders",
+      "season": 5
+    },
+    {
+      "rarity": "uncommon",
+      "cost": 4,
+      "attack": 2,
+      "health": 5,
+      "crew": "builders",
+      "season": 5
+    },
+    {
+      "rarity": "uncommon",
+      "cost": 4,
+      "attack": 3,
+      "health": 6,
+      "crew": "personal",
+      "season": 5
+    },
+    {
+      "rarity": "uncommon",
+      "cost": 4,
+      "attack": 3,
+      "health": 5,
+      "crew": "personal",
+      "season": 5
+    },
+    {
+      "rarity": "uncommon",
+      "cost": 4,
+      "attack": 3,
+      "health": 6,
+      "crew": "personal",
+      "season": 5
+    },
+    {
+      "rarity": "uncommon",
+      "cost": 4,
+      "attack": 3,
+      "health": 6,
+      "crew": "personal",
+      "season": 5
+    },
+    {
+      "rarity": "uncommon",
+      "cost": 4,
+      "attack": 3,
+      "health": 5,
+      "crew": "personal",
+      "season": 5
+    },
+    {
+      "rarity": "uncommon",
+      "cost": 4,
+      "attack": 3,
+      "health": 5,
+      "crew": "personal",
+      "season": 5
+    },
+    {
+      "rarity": "uncommon",
+      "cost": 4,
+      "attack": 3,
+      "health": 6,
+      "crew": "personal",
+      "season": 5
+    },
+    {
+      "rarity": "uncommon",
+      "cost": 4,
+      "attack": 3,
+      "health": 5,
+      "crew": "personal",
+      "season": 5
+    },
+    {
+      "rarity": "uncommon",
+      "cost": 4,
+      "attack": 3,
+      "health": 6,
+      "crew": "personal",
+      "season": 5
+    },
+    {
+      "rarity": "uncommon",
+      "cost": 4,
+      "attack": 2,
+      "health": 7,
+      "crew": "ops",
+      "season": 5
+    },
+    {
+      "rarity": "uncommon",
+      "cost": 4,
+      "attack": 2,
+      "health": 7,
+      "crew": "ops",
+      "season": 5
+    },
+    {
+      "rarity": "uncommon",
+      "cost": 4,
+      "attack": 2,
+      "health": 5,
+      "crew": "ops",
+      "season": 5
+    },
+    {
+      "rarity": "uncommon",
+      "cost": 4,
+      "attack": 2,
+      "health": 5,
+      "crew": "ops",
+      "season": 5
+    },
+    {
+      "rarity": "uncommon",
+      "cost": 4,
+      "attack": 2,
+      "health": 5,
+      "crew": "ops",
+      "season": 5
+    },
+    {
+      "rarity": "uncommon",
+      "cost": 4,
+      "attack": 2,
+      "health": 7,
+      "crew": "ops",
+      "season": 5
+    },
+    {
+      "rarity": "uncommon",
+      "cost": 4,
+      "attack": 2,
+      "health": 7,
+      "crew": "ops",
+      "season": 5
+    },
+    {
+      "rarity": "uncommon",
+      "cost": 4,
+      "attack": 2,
+      "health": 7,
+      "crew": "ops",
+      "season": 5
+    },
+    {
+      "rarity": "uncommon",
+      "cost": 4,
+      "attack": 3,
+      "health": 6,
+      "crew": "ops",
+      "season": 5
+    },
+    {
+      "rarity": "uncommon",
+      "cost": 4,
+      "attack": 2,
+      "health": 5,
+      "crew": "ops",
+      "season": 5
+    },
+    {
+      "rarity": "common",
+      "cost": 3,
+      "attack": 3,
+      "health": 5,
+      "crew": "sales",
+      "season": 5
+    },
+    {
+      "rarity": "common",
+      "cost": 3,
+      "attack": 3,
+      "health": 4,
+      "crew": "sales",
+      "season": 5
+    },
+    {
+      "rarity": "common",
+      "cost": 3,
+      "attack": 3,
+      "health": 4,
+      "crew": "sales",
+      "season": 5
+    },
+    {
+      "rarity": "common",
+      "cost": 3,
+      "attack": 3,
+      "health": 5,
+      "crew": "sales",
+      "season": 5
+    },
+    {
+      "rarity": "common",
+      "cost": 3,
+      "attack": 3,
+      "health": 5,
+      "crew": "sales",
+      "season": 5
+    },
+    {
+      "rarity": "common",
+      "cost": 3,
+      "attack": 3,
+      "health": 4,
+      "crew": "sales",
+      "season": 5
+    },
+    {
+      "rarity": "common",
+      "cost": 3,
+      "attack": 3,
+      "health": 5,
+      "crew": "sales",
+      "season": 5
+    },
+    {
+      "rarity": "common",
+      "cost": 3,
+      "attack": 3,
+      "health": 5,
+      "crew": "sales",
+      "season": 5
+    },
+    {
+      "rarity": "common",
+      "cost": 3,
+      "attack": 3,
+      "health": 4,
+      "crew": "sales",
+      "season": 5
+    },
+    {
+      "rarity": "common",
+      "cost": 3,
+      "attack": 3,
+      "health": 4,
+      "crew": "sales",
+      "season": 5
+    },
+    {
+      "rarity": "common",
+      "cost": 3,
+      "attack": 3,
+      "health": 5,
+      "crew": "marketing",
+      "season": 5
+    },
+    {
+      "rarity": "common",
+      "cost": 3,
+      "attack": 3,
+      "health": 5,
+      "crew": "marketing",
+      "season": 5
+    },
+    {
+      "rarity": "common",
+      "cost": 3,
+      "attack": 3,
+      "health": 5,
+      "crew": "marketing",
+      "season": 5
+    },
+    {
+      "rarity": "common",
+      "cost": 3,
+      "attack": 3,
+      "health": 5,
+      "crew": "marketing",
+      "season": 5
+    },
+    {
+      "rarity": "common",
+      "cost": 3,
+      "attack": 3,
+      "health": 5,
+      "crew": "marketing",
+      "season": 5
+    },
+    {
+      "rarity": "common",
+      "cost": 3,
+      "attack": 3,
+      "health": 5,
+      "crew": "marketing",
+      "season": 5
+    },
+    {
+      "rarity": "common",
+      "cost": 3,
+      "attack": 3,
+      "health": 5,
+      "crew": "marketing",
+      "season": 5
+    },
+    {
+      "rarity": "common",
+      "cost": 3,
+      "attack": 3,
+      "health": 5,
+      "crew": "marketing",
+      "season": 5
+    },
+    {
+      "rarity": "common",
+      "cost": 3,
+      "attack": 2,
+      "health": 4,
+      "crew": "marketing",
+      "season": 5
+    },
+    {
+      "rarity": "common",
+      "cost": 3,
+      "attack": 3,
+      "health": 5,
+      "crew": "marketing",
+      "season": 5
+    },
+    {
+      "rarity": "common",
+      "cost": 3,
+      "attack": 2,
+      "health": 5,
+      "crew": "builders",
+      "season": 5
+    },
+    {
+      "rarity": "common",
+      "cost": 3,
+      "attack": 2,
+      "health": 5,
+      "crew": "builders",
+      "season": 5
+    },
+    {
+      "rarity": "common",
+      "cost": 3,
+      "attack": 2,
+      "health": 5,
+      "crew": "builders",
+      "season": 5
+    },
+    {
+      "rarity": "common",
+      "cost": 3,
+      "attack": 2,
+      "health": 5,
+      "crew": "builders",
+      "season": 5
+    },
+    {
+      "rarity": "common",
+      "cost": 3,
+      "attack": 2,
+      "health": 5,
+      "crew": "builders",
+      "season": 5
+    },
+    {
+      "rarity": "common",
+      "cost": 3,
+      "attack": 2,
+      "health": 5,
+      "crew": "builders",
+      "season": 5
+    },
+    {
+      "rarity": "common",
+      "cost": 3,
+      "attack": 2,
+      "health": 6,
+      "crew": "builders",
+      "season": 5
+    },
+    {
+      "rarity": "common",
+      "cost": 3,
+      "attack": 2,
+      "health": 5,
+      "crew": "builders",
+      "season": 5
+    },
+    {
+      "rarity": "common",
+      "cost": 3,
+      "attack": 2,
+      "health": 5,
+      "crew": "builders",
+      "season": 5
+    },
+    {
+      "rarity": "common",
+      "cost": 3,
+      "attack": 2,
+      "health": 4,
+      "crew": "personal",
+      "season": 5
+    },
+    {
+      "rarity": "common",
+      "cost": 3,
+      "attack": 3,
+      "health": 5,
+      "crew": "personal",
+      "season": 5
+    },
+    {
+      "rarity": "common",
+      "cost": 3,
+      "attack": 3,
+      "health": 5,
+      "crew": "personal",
+      "season": 5
+    },
+    {
+      "rarity": "common",
+      "cost": 3,
+      "attack": 2,
+      "health": 4,
+      "crew": "personal",
+      "season": 5
+    },
+    {
+      "rarity": "common",
+      "cost": 3,
+      "attack": 3,
+      "health": 5,
+      "crew": "personal",
+      "season": 5
+    },
+    {
+      "rarity": "common",
+      "cost": 3,
+      "attack": 3,
+      "health": 5,
+      "crew": "personal",
+      "season": 5
+    },
+    {
+      "rarity": "common",
+      "cost": 3,
+      "attack": 3,
+      "health": 5,
+      "crew": "personal",
+      "season": 5
+    },
+    {
+      "rarity": "common",
+      "cost": 3,
+      "attack": 3,
+      "health": 5,
+      "crew": "personal",
+      "season": 5
+    },
+    {
+      "rarity": "common",
+      "cost": 3,
+      "attack": 2,
+      "health": 5,
+      "crew": "personal",
+      "season": 5
+    },
+    {
+      "rarity": "common",
+      "cost": 3,
+      "attack": 2,
+      "health": 5,
+      "crew": "personal",
+      "season": 5
+    },
+    {
+      "rarity": "common",
+      "cost": 3,
+      "attack": 2,
+      "health": 4,
+      "crew": "personal",
+      "season": 5
+    },
+    {
+      "rarity": "common",
+      "cost": 3,
+      "attack": 2,
+      "health": 6,
+      "crew": "ops",
+      "season": 5
+    },
+    {
+      "rarity": "common",
+      "cost": 3,
+      "attack": 2,
+      "health": 6,
+      "crew": "ops",
+      "season": 5
+    },
+    {
+      "rarity": "common",
+      "cost": 3,
+      "attack": 2,
+      "health": 6,
+      "crew": "ops",
+      "season": 5
+    },
+    {
+      "rarity": "common",
+      "cost": 3,
+      "attack": 2,
+      "health": 6,
+      "crew": "ops",
+      "season": 5
+    },
+    {
+      "rarity": "common",
+      "cost": 3,
+      "attack": 2,
+      "health": 6,
+      "crew": "ops",
+      "season": 5
+    },
+    {
+      "rarity": "common",
+      "cost": 3,
+      "attack": 2,
+      "health": 6,
+      "crew": "ops",
+      "season": 5
+    },
+    {
+      "rarity": "common",
+      "cost": 3,
+      "attack": 2,
+      "health": 6,
+      "crew": "ops",
+      "season": 5
+    },
+    {
+      "rarity": "common",
+      "cost": 3,
+      "attack": 2,
+      "health": 6,
+      "crew": "ops",
+      "season": 5
+    },
+    {
+      "rarity": "common",
+      "cost": 3,
+      "attack": 2,
+      "health": 5,
+      "crew": "ops",
+      "season": 5
+    },
+    {
+      "rarity": "common",
+      "cost": 3,
+      "attack": 2,
+      "health": 6,
+      "crew": "ops",
+      "season": 5
+    },
+    {
+      "rarity": "common",
+      "cost": 3,
+      "attack": 2,
+      "health": 5,
+      "crew": "ops",
+      "season": 5
+    },
+    {
+      "rarity": "mythic",
+      "cost": 8,
+      "attack": 4,
+      "health": 6,
+      "crew": "ops",
+      "season": 5
+    },
+    {
+      "rarity": "legendary",
+      "cost": 7,
+      "attack": 2,
+      "health": 8,
+      "crew": "sales",
+      "season": 5
+    },
+    {
+      "rarity": "legendary",
+      "cost": 7,
+      "attack": 6,
+      "health": 6,
+      "crew": "ops",
+      "season": 5
+    },
+    {
+      "rarity": "epic",
+      "cost": 6,
+      "attack": 6,
+      "health": 5,
+      "crew": "sales",
+      "season": 5
+    },
+    {
+      "rarity": "epic",
+      "cost": 6,
+      "attack": 4,
+      "health": 7,
+      "crew": "marketing",
+      "season": 5
+    },
+    {
+      "rarity": "epic",
+      "cost": 6,
+      "attack": 4,
+      "health": 6,
+      "crew": "builders",
+      "season": 5
+    },
+    {
+      "rarity": "epic",
+      "cost": 6,
+      "attack": 3,
+      "health": 6,
+      "crew": "personal",
+      "season": 5
+    },
+    {
+      "rarity": "epic",
+      "cost": 6,
+      "attack": 1,
+      "health": 8,
+      "crew": "ops",
+      "season": 5
+    },
+    {
+      "rarity": "rare",
+      "cost": 5,
+      "attack": 5,
+      "health": 5,
+      "crew": "sales",
+      "season": 5
+    },
+    {
+      "rarity": "rare",
+      "cost": 5,
+      "attack": 4,
+      "health": 7,
+      "crew": "marketing",
+      "season": 5
+    },
+    {
+      "rarity": "rare",
+      "cost": 5,
+      "attack": 3,
+      "health": 6,
+      "crew": "marketing",
+      "season": 5
+    },
+    {
+      "rarity": "rare",
+      "cost": 5,
+      "attack": 4,
+      "health": 7,
+      "crew": "builders",
+      "season": 5
+    },
+    {
+      "rarity": "rare",
+      "cost": 5,
+      "attack": 2,
+      "health": 8,
+      "crew": "builders",
+      "season": 5
+    },
+    {
+      "rarity": "rare",
+      "cost": 5,
+      "attack": 3,
+      "health": 6,
+      "crew": "personal",
+      "season": 5
+    },
+    {
+      "rarity": "rare",
+      "cost": 5,
+      "attack": 3,
+      "health": 7,
+      "crew": "ops",
+      "season": 5
+    },
+    {
+      "rarity": "rare",
+      "cost": 5,
+      "attack": 2,
+      "health": 6,
+      "crew": "ops",
+      "season": 5
+    },
+    {
+      "rarity": "uncommon",
+      "cost": 4,
+      "attack": 4,
+      "health": 5,
+      "crew": "sales",
+      "season": 5
+    },
+    {
+      "rarity": "uncommon",
+      "cost": 4,
+      "attack": 3,
+      "health": 5,
+      "crew": "sales",
+      "season": 5
+    },
+    {
+      "rarity": "uncommon",
+      "cost": 4,
+      "attack": 1,
+      "health": 7,
+      "crew": "marketing",
+      "season": 5
+    },
+    {
+      "rarity": "uncommon",
+      "cost": 4,
+      "attack": 3,
+      "health": 4,
+      "crew": "marketing",
+      "season": 5
+    },
+    {
+      "rarity": "uncommon",
+      "cost": 4,
+      "attack": 2,
+      "health": 6,
+      "crew": "builders",
+      "season": 5
+    },
+    {
+      "rarity": "uncommon",
+      "cost": 4,
+      "attack": 2,
+      "health": 5,
+      "crew": "builders",
+      "season": 5
+    },
+    {
+      "rarity": "uncommon",
+      "cost": 4,
+      "attack": 3,
+      "health": 5,
+      "crew": "builders",
+      "season": 5
+    },
+    {
+      "rarity": "uncommon",
+      "cost": 4,
+      "attack": 3,
+      "health": 5,
+      "crew": "personal",
+      "season": 5
+    },
+    {
+      "rarity": "uncommon",
+      "cost": 4,
+      "attack": 3,
+      "health": 5,
+      "crew": "personal",
+      "season": 5
+    },
+    {
+      "rarity": "uncommon",
+      "cost": 4,
+      "attack": 2,
+      "health": 7,
+      "crew": "ops",
+      "season": 5
+    },
+    {
+      "rarity": "uncommon",
+      "cost": 4,
+      "attack": 5,
+      "health": 4,
+      "crew": "ops",
+      "season": 5
+    },
+    {
+      "rarity": "common",
+      "cost": 3,
+      "attack": 3,
+      "health": 3,
+      "crew": "sales",
+      "season": 5
+    },
+    {
+      "rarity": "common",
+      "cost": 3,
+      "attack": 3,
+      "health": 4,
+      "crew": "sales",
+      "season": 5
+    },
+    {
+      "rarity": "common",
+      "cost": 3,
+      "attack": 3,
+      "health": 4,
+      "crew": "marketing",
+      "season": 5
+    },
+    {
+      "rarity": "common",
+      "cost": 3,
+      "attack": 3,
+      "health": 5,
+      "crew": "marketing",
+      "season": 5
+    },
+    {
+      "rarity": "common",
+      "cost": 3,
+      "attack": 6,
+      "health": 2,
+      "crew": "marketing",
+      "season": 5
+    },
+    {
+      "rarity": "common",
+      "cost": 3,
+      "attack": 2,
+      "health": 5,
+      "crew": "builders",
+      "season": 5
+    },
+    {
+      "rarity": "common",
+      "cost": 3,
+      "attack": 2,
+      "health": 5,
+      "crew": "builders",
+      "season": 5
+    },
+    {
+      "rarity": "common",
+      "cost": 3,
+      "attack": 2,
+      "health": 5,
+      "crew": "builders",
+      "season": 5
+    },
+    {
+      "rarity": "common",
+      "cost": 3,
+      "attack": 1,
+      "health": 5,
+      "crew": "builders",
+      "season": 5
+    },
+    {
+      "rarity": "common",
+      "cost": 3,
+      "attack": 1,
+      "health": 5,
+      "crew": "personal",
+      "season": 5
+    },
+    {
+      "rarity": "common",
+      "cost": 3,
+      "attack": 1,
+      "health": 5,
+      "crew": "personal",
+      "season": 5
+    },
+    {
+      "rarity": "common",
+      "cost": 3,
+      "attack": 3,
+      "health": 4,
+      "crew": "ops",
+      "season": 5
+    },
+    {
+      "rarity": "common",
+      "cost": 3,
+      "attack": 2,
+      "health": 6,
+      "crew": "ops",
+      "season": 5
+    },
+    {
+      "rarity": "common",
+      "cost": 3,
+      "attack": 1,
+      "health": 4,
+      "crew": "sales",
+      "season": 6
+    },
+    {
+      "rarity": "common",
+      "cost": 3,
+      "attack": 4,
+      "health": 3,
+      "crew": "sales",
+      "season": 6
+    },
+    {
+      "rarity": "common",
+      "cost": 3,
+      "attack": 3,
+      "health": 4,
+      "crew": "sales",
+      "season": 6
+    },
+    {
+      "rarity": "uncommon",
+      "cost": 4,
+      "attack": 3,
+      "health": 5,
+      "crew": "sales",
+      "season": 6
+    },
+    {
+      "rarity": "uncommon",
+      "cost": 4,
+      "attack": 5,
+      "health": 3,
+      "crew": "sales",
+      "season": 6
+    },
+    {
+      "rarity": "uncommon",
+      "cost": 4,
+      "attack": 2,
+      "health": 5,
+      "crew": "sales",
+      "season": 6
+    },
+    {
+      "rarity": "rare",
+      "cost": 5,
+      "attack": 3,
+      "health": 7,
+      "crew": "sales",
+      "season": 6
+    },
+    {
+      "rarity": "rare",
+      "cost": 5,
+      "attack": 4,
+      "health": 6,
+      "crew": "sales",
+      "season": 6
+    },
+    {
+      "rarity": "epic",
+      "cost": 6,
+      "attack": 3,
+      "health": 7,
+      "crew": "sales",
+      "season": 6
+    },
+    {
+      "rarity": "epic",
+      "cost": 6,
+      "attack": 6,
+      "health": 6,
+      "crew": "sales",
+      "season": 6
+    },
+    {
+      "rarity": "common",
+      "cost": 3,
+      "attack": 2,
+      "health": 5,
+      "crew": "ops",
+      "season": 6
+    },
+    {
+      "rarity": "common",
+      "cost": 3,
+      "attack": 2,
+      "health": 4,
+      "crew": "ops",
+      "season": 6
+    },
+    {
+      "rarity": "common",
+      "cost": 3,
+      "attack": 4,
+      "health": 3,
+      "crew": "ops",
+      "season": 6
+    },
+    {
+      "rarity": "common",
+      "cost": 3,
+      "attack": 2,
+      "health": 4,
+      "crew": "ops",
+      "season": 6
+    },
+    {
+      "rarity": "uncommon",
+      "cost": 4,
+      "attack": 3,
+      "health": 5,
+      "crew": "ops",
+      "season": 6
+    },
+    {
+      "rarity": "uncommon",
+      "cost": 4,
+      "attack": 7,
+      "health": 2,
+      "crew": "ops",
+      "season": 6
+    },
+    {
+      "rarity": "rare",
+      "cost": 5,
+      "attack": 3,
+      "health": 8,
+      "crew": "ops",
+      "season": 6
+    },
+    {
+      "rarity": "rare",
+      "cost": 5,
+      "attack": 8,
+      "health": 2,
+      "crew": "ops",
+      "season": 6
+    },
+    {
+      "rarity": "epic",
+      "cost": 6,
+      "attack": 5,
+      "health": 5,
+      "crew": "ops",
+      "season": 6
+    },
+    {
+      "rarity": "mythic",
+      "cost": 8,
+      "attack": 7,
+      "health": 2,
+      "crew": "ops",
+      "season": 6
+    },
+    {
+      "rarity": "common",
+      "cost": 3,
+      "attack": 5,
+      "health": 3,
+      "crew": "marketing",
+      "season": 6
+    },
+    {
+      "rarity": "common",
+      "cost": 3,
+      "attack": 2,
+      "health": 5,
+      "crew": "marketing",
+      "season": 6
+    },
+    {
+      "rarity": "common",
+      "cost": 3,
+      "attack": 3,
+      "health": 2,
+      "crew": "marketing",
+      "season": 6
+    },
+    {
+      "rarity": "uncommon",
+      "cost": 4,
+      "attack": 3,
+      "health": 5,
+      "crew": "marketing",
+      "season": 6
+    },
+    {
+      "rarity": "uncommon",
+      "cost": 4,
+      "attack": 3,
+      "health": 5,
+      "crew": "marketing",
+      "season": 6
+    },
+    {
+      "rarity": "uncommon",
+      "cost": 4,
+      "attack": 3,
+      "health": 4,
+      "crew": "marketing",
+      "season": 6
+    },
+    {
+      "rarity": "rare",
+      "cost": 5,
+      "attack": 3,
+      "health": 7,
+      "crew": "marketing",
+      "season": 6
+    },
+    {
+      "rarity": "rare",
+      "cost": 5,
+      "attack": 3,
+      "health": 3,
+      "crew": "marketing",
+      "season": 6
+    },
+    {
+      "rarity": "epic",
+      "cost": 6,
+      "attack": 4,
+      "health": 7,
+      "crew": "marketing",
+      "season": 6
+    },
+    {
+      "rarity": "legendary",
+      "cost": 7,
+      "attack": 5,
+      "health": 6,
+      "crew": "marketing",
+      "season": 6
+    },
+    {
+      "rarity": "common",
+      "cost": 3,
+      "attack": 3,
+      "health": 3,
+      "crew": "personal",
+      "season": 6
+    },
+    {
+      "rarity": "common",
+      "cost": 3,
+      "attack": 3,
+      "health": 4,
+      "crew": "personal",
+      "season": 6
+    },
+    {
+      "rarity": "common",
+      "cost": 3,
+      "attack": 4,
+      "health": 3,
+      "crew": "personal",
+      "season": 6
+    },
+    {
+      "rarity": "uncommon",
+      "cost": 4,
+      "attack": 6,
+      "health": 3,
+      "crew": "personal",
+      "season": 6
+    },
+    {
+      "rarity": "uncommon",
+      "cost": 4,
+      "attack": 3,
+      "health": 4,
+      "crew": "personal",
+      "season": 6
+    },
+    {
+      "rarity": "uncommon",
+      "cost": 4,
+      "attack": 2,
+      "health": 4,
+      "crew": "personal",
+      "season": 6
+    },
+    {
+      "rarity": "rare",
+      "cost": 5,
+      "attack": 4,
+      "health": 5,
+      "crew": "personal",
+      "season": 6
+    },
+    {
+      "rarity": "rare",
+      "cost": 5,
+      "attack": 7,
+      "health": 4,
+      "crew": "personal",
+      "season": 6
+    },
+    {
+      "rarity": "epic",
+      "cost": 6,
+      "attack": 4,
+      "health": 5,
+      "crew": "personal",
+      "season": 6
+    },
+    {
+      "rarity": "legendary",
+      "cost": 7,
+      "attack": 6,
+      "health": 6,
+      "crew": "personal",
+      "season": 6
+    },
+    {
+      "rarity": "common",
+      "cost": 3,
+      "attack": 2,
+      "health": 5,
+      "crew": "builders",
+      "season": 6
+    },
+    {
+      "rarity": "common",
+      "cost": 3,
+      "attack": 3,
+      "health": 4,
+      "crew": "builders",
+      "season": 6
+    },
+    {
+      "rarity": "common",
+      "cost": 3,
+      "attack": 3,
+      "health": 5,
+      "crew": "builders",
+      "season": 6
+    },
+    {
+      "rarity": "uncommon",
+      "cost": 4,
+      "attack": 4,
+      "health": 3,
+      "crew": "builders",
+      "season": 6
+    },
+    {
+      "rarity": "uncommon",
+      "cost": 4,
+      "attack": 3,
+      "health": 4,
+      "crew": "builders",
+      "season": 6
+    },
+    {
+      "rarity": "uncommon",
+      "cost": 4,
+      "attack": 3,
+      "health": 4,
+      "crew": "builders",
+      "season": 6
+    },
+    {
+      "rarity": "rare",
+      "cost": 5,
+      "attack": 6,
+      "health": 2,
+      "crew": "builders",
+      "season": 6
+    },
+    {
+      "rarity": "rare",
+      "cost": 5,
+      "attack": 3,
+      "health": 8,
+      "crew": "builders",
+      "season": 6
+    },
+    {
+      "rarity": "epic",
+      "cost": 6,
+      "attack": 4,
+      "health": 6,
+      "crew": "builders",
+      "season": 6
+    },
+    {
+      "rarity": "mythic",
+      "cost": 8,
+      "attack": 2,
+      "health": 6,
+      "crew": "builders",
+      "season": 6
+    },
+    {
+      "rarity": "common",
+      "cost": 3,
+      "attack": 2,
+      "health": 4,
+      "crew": "sales",
+      "season": 6
+    },
+    {
+      "rarity": "common",
+      "cost": 3,
+      "attack": 2,
+      "health": 3,
+      "crew": "sales",
+      "season": 6
+    },
+    {
+      "rarity": "common",
+      "cost": 3,
+      "attack": 2,
+      "health": 5,
+      "crew": "sales",
+      "season": 6
+    },
+    {
+      "rarity": "uncommon",
+      "cost": 4,
+      "attack": 3,
+      "health": 5,
+      "crew": "sales",
+      "season": 6
+    },
+    {
+      "rarity": "uncommon",
+      "cost": 4,
+      "attack": 3,
+      "health": 4,
+      "crew": "sales",
+      "season": 6
+    },
+    {
+      "rarity": "uncommon",
+      "cost": 4,
+      "attack": 3,
+      "health": 4,
+      "crew": "sales",
+      "season": 6
+    },
+    {
+      "rarity": "rare",
+      "cost": 5,
+      "attack": 3,
+      "health": 5,
+      "crew": "sales",
+      "season": 6
+    },
+    {
+      "rarity": "rare",
+      "cost": 5,
+      "attack": 3,
+      "health": 7,
+      "crew": "sales",
+      "season": 6
+    },
+    {
+      "rarity": "epic",
+      "cost": 6,
+      "attack": 2,
+      "health": 6,
+      "crew": "sales",
+      "season": 6
+    },
+    {
+      "rarity": "mythic",
+      "cost": 8,
+      "attack": 3,
+      "health": 7,
+      "crew": "sales",
+      "season": 6
+    },
+    {
+      "rarity": "common",
+      "cost": 3,
+      "attack": 2,
+      "health": 4,
+      "crew": "ops",
+      "season": 6
+    },
+    {
+      "rarity": "common",
+      "cost": 3,
+      "attack": 2,
+      "health": 5,
+      "crew": "ops",
+      "season": 6
+    },
+    {
+      "rarity": "common",
+      "cost": 3,
+      "attack": 5,
+      "health": 3,
+      "crew": "ops",
+      "season": 6
+    },
+    {
+      "rarity": "uncommon",
+      "cost": 4,
+      "attack": 3,
+      "health": 4,
+      "crew": "ops",
+      "season": 6
+    },
+    {
+      "rarity": "uncommon",
+      "cost": 4,
+      "attack": 4,
+      "health": 4,
+      "crew": "ops",
+      "season": 6
+    },
+    {
+      "rarity": "uncommon",
+      "cost": 4,
+      "attack": 3,
+      "health": 5,
+      "crew": "ops",
+      "season": 6
+    },
+    {
+      "rarity": "rare",
+      "cost": 5,
+      "attack": 2,
+      "health": 5,
+      "crew": "ops",
+      "season": 6
+    },
+    {
+      "rarity": "rare",
+      "cost": 5,
+      "attack": 4,
+      "health": 5,
+      "crew": "ops",
+      "season": 6
+    },
+    {
+      "rarity": "epic",
+      "cost": 6,
+      "attack": 7,
+      "health": 2,
+      "crew": "ops",
+      "season": 6
+    },
+    {
+      "rarity": "legendary",
+      "cost": 7,
+      "attack": 4,
+      "health": 8,
+      "crew": "ops",
+      "season": 6
+    },
+    {
+      "rarity": "common",
+      "cost": 3,
+      "attack": 3,
+      "health": 4,
+      "crew": "marketing",
+      "season": 6
+    },
+    {
+      "rarity": "common",
+      "cost": 3,
+      "attack": 5,
+      "health": 2,
+      "crew": "marketing",
+      "season": 6
+    },
+    {
+      "rarity": "common",
+      "cost": 3,
+      "attack": 2,
+      "health": 5,
+      "crew": "marketing",
+      "season": 6
+    },
+    {
+      "rarity": "uncommon",
+      "cost": 4,
+      "attack": 4,
+      "health": 4,
+      "crew": "marketing",
+      "season": 6
+    },
+    {
+      "rarity": "uncommon",
+      "cost": 4,
+      "attack": 2,
+      "health": 3,
+      "crew": "marketing",
+      "season": 6
+    },
+    {
+      "rarity": "uncommon",
+      "cost": 4,
+      "attack": 3,
+      "health": 4,
+      "crew": "marketing",
+      "season": 6
+    },
+    {
+      "rarity": "rare",
+      "cost": 5,
+      "attack": 3,
+      "health": 4,
+      "crew": "marketing",
+      "season": 6
+    },
+    {
+      "rarity": "rare",
+      "cost": 5,
+      "attack": 4,
+      "health": 5,
+      "crew": "marketing",
+      "season": 6
+    },
+    {
+      "rarity": "epic",
+      "cost": 6,
+      "attack": 5,
+      "health": 6,
+      "crew": "marketing",
+      "season": 6
+    },
+    {
+      "rarity": "mythic",
+      "cost": 8,
+      "attack": 7,
+      "health": 5,
+      "crew": "marketing",
+      "season": 6
+    },
+    {
+      "rarity": "common",
+      "cost": 3,
+      "attack": 1,
+      "health": 5,
+      "crew": "personal",
+      "season": 6
+    },
+    {
+      "rarity": "common",
+      "cost": 3,
+      "attack": 3,
+      "health": 4,
+      "crew": "personal",
+      "season": 6
+    },
+    {
+      "rarity": "common",
+      "cost": 3,
+      "attack": 5,
+      "health": 3,
+      "crew": "personal",
+      "season": 6
+    },
+    {
+      "rarity": "uncommon",
+      "cost": 4,
+      "attack": 6,
+      "health": 2,
+      "crew": "personal",
+      "season": 6
+    },
+    {
+      "rarity": "uncommon",
+      "cost": 4,
+      "attack": 3,
+      "health": 4,
+      "crew": "personal",
+      "season": 6
+    },
+    {
+      "rarity": "uncommon",
+      "cost": 4,
+      "attack": 2,
+      "health": 6,
+      "crew": "personal",
+      "season": 6
+    },
+    {
+      "rarity": "rare",
+      "cost": 5,
+      "attack": 3,
+      "health": 6,
+      "crew": "personal",
+      "season": 6
+    },
+    {
+      "rarity": "rare",
+      "cost": 5,
+      "attack": 7,
+      "health": 4,
+      "crew": "personal",
+      "season": 6
+    },
+    {
+      "rarity": "epic",
+      "cost": 6,
+      "attack": 6,
+      "health": 6,
+      "crew": "personal",
+      "season": 6
+    },
+    {
+      "rarity": "legendary",
+      "cost": 7,
+      "attack": 7,
+      "health": 5,
+      "crew": "personal",
+      "season": 6
+    },
+    {
+      "rarity": "common",
+      "cost": 3,
+      "attack": 2,
+      "health": 5,
+      "crew": "builders",
+      "season": 6
+    },
+    {
+      "rarity": "common",
+      "cost": 3,
+      "attack": 2,
+      "health": 4,
+      "crew": "builders",
+      "season": 6
+    },
+    {
+      "rarity": "common",
+      "cost": 3,
+      "attack": 3,
+      "health": 4,
+      "crew": "builders",
+      "season": 6
+    },
+    {
+      "rarity": "common",
+      "cost": 3,
+      "attack": 5,
+      "health": 1,
+      "crew": "builders",
+      "season": 6
+    },
+    {
+      "rarity": "uncommon",
+      "cost": 4,
+      "attack": 2,
+      "health": 6,
+      "crew": "builders",
+      "season": 6
+    },
+    {
+      "rarity": "uncommon",
+      "cost": 4,
+      "attack": 5,
+      "health": 3,
+      "crew": "builders",
+      "season": 6
+    },
+    {
+      "rarity": "rare",
+      "cost": 5,
+      "attack": 1,
+      "health": 5,
+      "crew": "builders",
+      "season": 6
+    },
+    {
+      "rarity": "rare",
+      "cost": 5,
+      "attack": 3,
+      "health": 5,
+      "crew": "builders",
+      "season": 6
+    },
+    {
+      "rarity": "epic",
+      "cost": 6,
+      "attack": 4,
+      "health": 6,
+      "crew": "builders",
+      "season": 6
+    },
+    {
+      "rarity": "epic",
+      "cost": 6,
+      "attack": 8,
+      "health": 3,
+      "crew": "builders",
+      "season": 6
+    },
+    {
+      "rarity": "common",
+      "cost": 3,
+      "attack": 3,
+      "health": 4,
+      "crew": "sales",
+      "season": 6
+    },
+    {
+      "rarity": "common",
+      "cost": 3,
+      "attack": 2,
+      "health": 5,
+      "crew": "sales",
+      "season": 6
+    },
+    {
+      "rarity": "common",
+      "cost": 3,
+      "attack": 1,
+      "health": 5,
+      "crew": "sales",
+      "season": 6
+    },
+    {
+      "rarity": "uncommon",
+      "cost": 4,
+      "attack": 6,
+      "health": 3,
+      "crew": "sales",
+      "season": 6
+    },
+    {
+      "rarity": "uncommon",
+      "cost": 4,
+      "attack": 4,
+      "health": 4,
+      "crew": "sales",
+      "season": 6
+    },
+    {
+      "rarity": "uncommon",
+      "cost": 4,
+      "attack": 2,
+      "health": 2,
+      "crew": "sales",
+      "season": 6
+    },
+    {
+      "rarity": "rare",
+      "cost": 5,
+      "attack": 1,
+      "health": 8,
+      "crew": "sales",
+      "season": 6
+    },
+    {
+      "rarity": "rare",
+      "cost": 5,
+      "attack": 7,
+      "health": 4,
+      "crew": "sales",
+      "season": 6
+    },
+    {
+      "rarity": "epic",
+      "cost": 6,
+      "attack": 4,
+      "health": 7,
+      "crew": "sales",
+      "season": 6
+    },
+    {
+      "rarity": "legendary",
+      "cost": 7,
+      "attack": 6,
+      "health": 6,
+      "crew": "sales",
+      "season": 6
+    },
+    {
+      "rarity": "common",
+      "cost": 3,
+      "attack": 3,
+      "health": 5,
+      "crew": "ops",
+      "season": 6
+    },
+    {
+      "rarity": "common",
+      "cost": 3,
+      "attack": 2,
+      "health": 4,
+      "crew": "ops",
+      "season": 6
+    },
+    {
+      "rarity": "common",
+      "cost": 3,
+      "attack": 2,
+      "health": 5,
+      "crew": "ops",
+      "season": 6
+    },
+    {
+      "rarity": "uncommon",
+      "cost": 4,
+      "attack": 4,
+      "health": 5,
+      "crew": "ops",
+      "season": 6
+    },
+    {
+      "rarity": "uncommon",
+      "cost": 4,
+      "attack": 4,
+      "health": 4,
+      "crew": "ops",
+      "season": 6
+    },
+    {
+      "rarity": "uncommon",
+      "cost": 4,
+      "attack": 3,
+      "health": 4,
+      "crew": "ops",
+      "season": 6
+    },
+    {
+      "rarity": "rare",
+      "cost": 5,
+      "attack": 2,
+      "health": 8,
+      "crew": "ops",
+      "season": 6
+    },
+    {
+      "rarity": "rare",
+      "cost": 5,
+      "attack": 2,
+      "health": 5,
+      "crew": "ops",
+      "season": 6
+    },
+    {
+      "rarity": "epic",
+      "cost": 6,
+      "attack": 1,
+      "health": 7,
+      "crew": "ops",
+      "season": 6
+    },
+    {
+      "rarity": "mythic",
+      "cost": 8,
+      "attack": 4,
+      "health": 8,
+      "crew": "ops",
+      "season": 6
+    },
+    {
+      "rarity": "common",
+      "cost": 3,
+      "attack": 1,
+      "health": 6,
+      "crew": "marketing",
+      "season": 6
+    },
+    {
+      "rarity": "common",
+      "cost": 3,
+      "attack": 5,
+      "health": 3,
+      "crew": "marketing",
+      "season": 6
+    },
+    {
+      "rarity": "common",
+      "cost": 3,
+      "attack": 2,
+      "health": 3,
+      "crew": "marketing",
+      "season": 6
+    },
+    {
+      "rarity": "uncommon",
+      "cost": 4,
+      "attack": 2,
+      "health": 5,
+      "crew": "marketing",
+      "season": 6
+    },
+    {
+      "rarity": "uncommon",
+      "cost": 4,
+      "attack": 2,
+      "health": 5,
+      "crew": "marketing",
+      "season": 6
+    },
+    {
+      "rarity": "uncommon",
+      "cost": 4,
+      "attack": 1,
+      "health": 5,
+      "crew": "marketing",
+      "season": 6
+    },
+    {
+      "rarity": "rare",
+      "cost": 5,
+      "attack": 1,
+      "health": 5,
+      "crew": "marketing",
+      "season": 6
+    },
+    {
+      "rarity": "rare",
+      "cost": 5,
+      "attack": 3,
+      "health": 7,
+      "crew": "marketing",
+      "season": 6
+    },
+    {
+      "rarity": "epic",
+      "cost": 6,
+      "attack": 7,
+      "health": 5,
+      "crew": "marketing",
+      "season": 6
+    },
+    {
+      "rarity": "epic",
+      "cost": 6,
+      "attack": 4,
+      "health": 6,
+      "crew": "marketing",
+      "season": 6
+    },
+    {
+      "rarity": "common",
+      "cost": 3,
+      "attack": 2,
+      "health": 6,
+      "crew": "personal",
+      "season": 6
+    },
+    {
+      "rarity": "common",
+      "cost": 3,
+      "attack": 1,
+      "health": 3,
+      "crew": "personal",
+      "season": 6
+    },
+    {
+      "rarity": "common",
+      "cost": 3,
+      "attack": 5,
+      "health": 2,
+      "crew": "personal",
+      "season": 6
+    },
+    {
+      "rarity": "common",
+      "cost": 3,
+      "attack": 2,
+      "health": 5,
+      "crew": "personal",
+      "season": 6
+    },
+    {
+      "rarity": "uncommon",
+      "cost": 4,
+      "attack": 5,
+      "health": 3,
+      "crew": "personal",
+      "season": 6
+    },
+    {
+      "rarity": "uncommon",
+      "cost": 4,
+      "attack": 2,
+      "health": 7,
+      "crew": "personal",
+      "season": 6
+    },
+    {
+      "rarity": "rare",
+      "cost": 5,
+      "attack": 1,
+      "health": 10,
+      "crew": "personal",
+      "season": 6
+    },
+    {
+      "rarity": "rare",
+      "cost": 5,
+      "attack": 7,
+      "health": 4,
+      "crew": "personal",
+      "season": 6
+    },
+    {
+      "rarity": "epic",
+      "cost": 6,
+      "attack": 2,
+      "health": 5,
+      "crew": "personal",
+      "season": 6
+    },
+    {
+      "rarity": "legendary",
+      "cost": 7,
+      "attack": 3,
+      "health": 8,
+      "crew": "personal",
+      "season": 6
+    },
+    {
+      "rarity": "common",
+      "cost": 3,
+      "attack": 2,
+      "health": 6,
+      "crew": "builders",
+      "season": 6
+    },
+    {
+      "rarity": "common",
+      "cost": 3,
+      "attack": 2,
+      "health": 6,
+      "crew": "builders",
+      "season": 6
+    },
+    {
+      "rarity": "common",
+      "cost": 3,
+      "attack": 2,
+      "health": 4,
+      "crew": "builders",
+      "season": 6
+    },
+    {
+      "rarity": "uncommon",
+      "cost": 4,
+      "attack": 3,
+      "health": 4,
+      "crew": "builders",
+      "season": 6
+    },
+    {
+      "rarity": "uncommon",
+      "cost": 4,
+      "attack": 3,
+      "health": 5,
+      "crew": "builders",
+      "season": 6
+    },
+    {
+      "rarity": "uncommon",
+      "cost": 4,
+      "attack": 6,
+      "health": 3,
+      "crew": "builders",
+      "season": 6
+    },
+    {
+      "rarity": "rare",
+      "cost": 5,
+      "attack": 3,
+      "health": 6,
+      "crew": "builders",
+      "season": 6
+    },
+    {
+      "rarity": "rare",
+      "cost": 5,
+      "attack": 2,
+      "health": 5,
+      "crew": "builders",
+      "season": 6
+    },
+    {
+      "rarity": "epic",
+      "cost": 6,
+      "attack": 2,
+      "health": 3,
+      "crew": "builders",
+      "season": 6
+    },
+    {
+      "rarity": "mythic",
+      "cost": 8,
+      "attack": 3,
+      "health": 5,
+      "crew": "builders",
+      "season": 6
+    },
+    {
+      "rarity": "common",
+      "cost": 3,
+      "attack": 1,
+      "health": 3,
+      "crew": "sales",
+      "season": 6
+    },
+    {
+      "rarity": "common",
+      "cost": 3,
+      "attack": 1,
+      "health": 4,
+      "crew": "sales",
+      "season": 6
+    },
+    {
+      "rarity": "common",
+      "cost": 3,
+      "attack": 1,
+      "health": 4,
+      "crew": "sales",
+      "season": 6
+    },
+    {
+      "rarity": "common",
+      "cost": 3,
+      "attack": 6,
+      "health": 1,
+      "crew": "sales",
+      "season": 6
+    },
+    {
+      "rarity": "uncommon",
+      "cost": 4,
+      "attack": 5,
+      "health": 1,
+      "crew": "sales",
+      "season": 6
+    },
+    {
+      "rarity": "uncommon",
+      "cost": 4,
+      "attack": 3,
+      "health": 5,
+      "crew": "sales",
+      "season": 6
+    },
+    {
+      "rarity": "rare",
+      "cost": 5,
+      "attack": 3,
+      "health": 6,
+      "crew": "sales",
+      "season": 6
+    },
+    {
+      "rarity": "rare",
+      "cost": 5,
+      "attack": 3,
+      "health": 6,
+      "crew": "sales",
+      "season": 6
+    },
+    {
+      "rarity": "epic",
+      "cost": 6,
+      "attack": 5,
+      "health": 7,
+      "crew": "sales",
+      "season": 6
+    },
+    {
+      "rarity": "epic",
+      "cost": 6,
+      "attack": 1,
+      "health": 9,
+      "crew": "sales",
+      "season": 6
+    },
+    {
+      "rarity": "common",
+      "cost": 3,
+      "attack": 3,
+      "health": 4,
+      "crew": "ops",
+      "season": 6
+    },
+    {
+      "rarity": "common",
+      "cost": 3,
+      "attack": 3,
+      "health": 1,
+      "crew": "ops",
+      "season": 6
+    },
+    {
+      "rarity": "common",
+      "cost": 3,
+      "attack": 1,
+      "health": 4,
+      "crew": "ops",
+      "season": 6
+    },
+    {
+      "rarity": "uncommon",
+      "cost": 4,
+      "attack": 3,
+      "health": 5,
+      "crew": "ops",
+      "season": 6
+    },
+    {
+      "rarity": "uncommon",
+      "cost": 4,
+      "attack": 3,
+      "health": 2,
+      "crew": "ops",
+      "season": 6
+    },
+    {
+      "rarity": "uncommon",
+      "cost": 4,
+      "attack": 4,
+      "health": 4,
+      "crew": "ops",
+      "season": 6
+    },
+    {
+      "rarity": "rare",
+      "cost": 5,
+      "attack": 5,
+      "health": 4,
+      "crew": "ops",
+      "season": 6
+    },
+    {
+      "rarity": "rare",
+      "cost": 5,
+      "attack": 3,
+      "health": 6,
+      "crew": "ops",
+      "season": 6
+    },
+    {
+      "rarity": "epic",
+      "cost": 6,
+      "attack": 5,
+      "health": 6,
+      "crew": "ops",
+      "season": 6
+    },
+    {
+      "rarity": "mythic",
+      "cost": 8,
+      "attack": 2,
+      "health": 10,
+      "crew": "ops",
+      "season": 6
+    },
+    {
+      "rarity": "common",
+      "cost": 3,
+      "attack": 5,
+      "health": 1,
+      "crew": "marketing",
+      "season": 6
+    },
+    {
+      "rarity": "common",
+      "cost": 3,
+      "attack": 1,
+      "health": 3,
+      "crew": "marketing",
+      "season": 6
+    },
+    {
+      "rarity": "common",
+      "cost": 3,
+      "attack": 3,
+      "health": 5,
+      "crew": "marketing",
+      "season": 6
+    },
+    {
+      "rarity": "uncommon",
+      "cost": 4,
+      "attack": 6,
+      "health": 2,
+      "crew": "marketing",
+      "season": 6
+    },
+    {
+      "rarity": "uncommon",
+      "cost": 4,
+      "attack": 3,
+      "health": 5,
+      "crew": "marketing",
+      "season": 6
+    },
+    {
+      "rarity": "uncommon",
+      "cost": 4,
+      "attack": 3,
+      "health": 6,
+      "crew": "marketing",
+      "season": 6
+    },
+    {
+      "rarity": "rare",
+      "cost": 5,
+      "attack": 1,
+      "health": 4,
+      "crew": "marketing",
+      "season": 6
+    },
+    {
+      "rarity": "rare",
+      "cost": 5,
+      "attack": 4,
+      "health": 5,
+      "crew": "marketing",
+      "season": 6
+    },
+    {
+      "rarity": "epic",
+      "cost": 6,
+      "attack": 3,
+      "health": 5,
+      "crew": "marketing",
+      "season": 6
+    },
+    {
+      "rarity": "legendary",
+      "cost": 7,
+      "attack": 1,
+      "health": 8,
+      "crew": "marketing",
+      "season": 6
+    },
+    {
+      "rarity": "common",
+      "cost": 3,
+      "attack": 2,
+      "health": 4,
+      "crew": "personal",
+      "season": 6
+    },
+    {
+      "rarity": "common",
+      "cost": 3,
+      "attack": 3,
+      "health": 5,
+      "crew": "personal",
+      "season": 6
+    },
+    {
+      "rarity": "common",
+      "cost": 3,
+      "attack": 3,
+      "health": 3,
+      "crew": "personal",
+      "season": 6
+    },
+    {
+      "rarity": "uncommon",
+      "cost": 4,
+      "attack": 3,
+      "health": 5,
+      "crew": "personal",
+      "season": 6
+    },
+    {
+      "rarity": "uncommon",
+      "cost": 4,
+      "attack": 4,
+      "health": 4,
+      "crew": "personal",
+      "season": 6
+    },
+    {
+      "rarity": "uncommon",
+      "cost": 4,
+      "attack": 1,
+      "health": 3,
+      "crew": "personal",
+      "season": 6
+    },
+    {
+      "rarity": "rare",
+      "cost": 5,
+      "attack": 3,
+      "health": 5,
+      "crew": "personal",
+      "season": 6
+    },
+    {
+      "rarity": "rare",
+      "cost": 5,
+      "attack": 3,
+      "health": 6,
+      "crew": "personal",
+      "season": 6
+    },
+    {
+      "rarity": "epic",
+      "cost": 6,
+      "attack": 4,
+      "health": 5,
+      "crew": "personal",
+      "season": 6
+    },
+    {
+      "rarity": "mythic",
+      "cost": 8,
+      "attack": 3,
+      "health": 6,
+      "crew": "personal",
+      "season": 6
+    },
+    {
+      "rarity": "common",
+      "cost": 3,
+      "attack": 4,
+      "health": 2,
+      "crew": "builders",
+      "season": 6
+    },
+    {
+      "rarity": "common",
+      "cost": 3,
+      "attack": 4,
+      "health": 4,
+      "crew": "builders",
+      "season": 6
+    },
+    {
+      "rarity": "common",
+      "cost": 3,
+      "attack": 2,
+      "health": 5,
+      "crew": "builders",
+      "season": 6
+    },
+    {
+      "rarity": "uncommon",
+      "cost": 4,
+      "attack": 4,
+      "health": 3,
+      "crew": "builders",
+      "season": 6
+    },
+    {
+      "rarity": "uncommon",
+      "cost": 4,
+      "attack": 1,
+      "health": 4,
+      "crew": "builders",
+      "season": 6
+    },
+    {
+      "rarity": "uncommon",
+      "cost": 4,
+      "attack": 2,
+      "health": 4,
+      "crew": "builders",
+      "season": 6
+    },
+    {
+      "rarity": "rare",
+      "cost": 5,
+      "attack": 2,
+      "health": 2,
+      "crew": "builders",
+      "season": 6
+    },
+    {
+      "rarity": "rare",
+      "cost": 5,
+      "attack": 7,
+      "health": 4,
+      "crew": "builders",
+      "season": 6
+    },
+    {
+      "rarity": "epic",
+      "cost": 6,
+      "attack": 4,
+      "health": 6,
+      "crew": "builders",
+      "season": 6
+    },
+    {
+      "rarity": "legendary",
+      "cost": 7,
+      "attack": 4,
+      "health": 8,
+      "crew": "builders",
+      "season": 6
+    },
+    {
+      "rarity": "common",
+      "cost": 3,
+      "attack": 2,
+      "health": 6,
+      "crew": "sales",
+      "season": 6
+    },
+    {
+      "rarity": "common",
+      "cost": 3,
+      "attack": 3,
+      "health": 4,
+      "crew": "sales",
+      "season": 6
+    },
+    {
+      "rarity": "common",
+      "cost": 3,
+      "attack": 3,
+      "health": 5,
+      "crew": "sales",
+      "season": 6
+    },
+    {
+      "rarity": "uncommon",
+      "cost": 4,
+      "attack": 3,
+      "health": 5,
+      "crew": "sales",
+      "season": 6
+    },
+    {
+      "rarity": "uncommon",
+      "cost": 4,
+      "attack": 1,
+      "health": 3,
+      "crew": "sales",
+      "season": 6
+    },
+    {
+      "rarity": "uncommon",
+      "cost": 4,
+      "attack": 5,
+      "health": 3,
+      "crew": "sales",
+      "season": 6
+    },
+    {
+      "rarity": "rare",
+      "cost": 5,
+      "attack": 4,
+      "health": 7,
+      "crew": "sales",
+      "season": 6
+    },
+    {
+      "rarity": "rare",
+      "cost": 5,
+      "attack": 3,
+      "health": 6,
+      "crew": "sales",
+      "season": 6
+    },
+    {
+      "rarity": "epic",
+      "cost": 6,
+      "attack": 4,
+      "health": 6,
+      "crew": "sales",
+      "season": 6
+    },
+    {
+      "rarity": "mythic",
+      "cost": 8,
+      "attack": 7,
+      "health": 5,
+      "crew": "sales",
+      "season": 6
+    },
+    {
+      "rarity": "common",
+      "cost": 3,
+      "attack": 3,
+      "health": 5,
+      "crew": "ops",
+      "season": 6
+    },
+    {
+      "rarity": "common",
+      "cost": 3,
+      "attack": 2,
+      "health": 5,
+      "crew": "ops",
+      "season": 6
+    },
+    {
+      "rarity": "common",
+      "cost": 3,
+      "attack": 3,
+      "health": 5,
+      "crew": "ops",
+      "season": 6
+    },
+    {
+      "rarity": "uncommon",
+      "cost": 4,
+      "attack": 3,
+      "health": 5,
+      "crew": "ops",
+      "season": 6
+    },
+    {
+      "rarity": "uncommon",
+      "cost": 4,
+      "attack": 3,
+      "health": 5,
+      "crew": "personal",
+      "season": 6
+    },
+    {
+      "rarity": "uncommon",
+      "cost": 4,
+      "attack": 2,
+      "health": 6,
+      "crew": "ops",
+      "season": 6
+    },
+    {
+      "rarity": "rare",
+      "cost": 5,
+      "attack": 2,
+      "health": 6,
+      "crew": "ops",
+      "season": 6
+    },
+    {
+      "rarity": "rare",
+      "cost": 5,
+      "attack": 3,
+      "health": 6,
+      "crew": "ops",
+      "season": 6
+    },
+    {
+      "rarity": "epic",
+      "cost": 6,
+      "attack": 4,
+      "health": 6,
+      "crew": "ops",
+      "season": 6
+    },
+    {
+      "rarity": "legendary",
+      "cost": 7,
+      "attack": 6,
+      "health": 6,
+      "crew": "ops",
+      "season": 6
+    },
+    {
+      "rarity": "common",
+      "cost": 3,
+      "attack": 3,
+      "health": 4,
+      "crew": "marketing",
+      "season": 6
+    },
+    {
+      "rarity": "common",
+      "cost": 3,
+      "attack": 3,
+      "health": 4,
+      "crew": "marketing",
+      "season": 6
+    },
+    {
+      "rarity": "common",
+      "cost": 3,
+      "attack": 3,
+      "health": 1,
+      "crew": "marketing",
+      "season": 6
+    },
+    {
+      "rarity": "common",
+      "cost": 3,
+      "attack": 2,
+      "health": 6,
+      "crew": "marketing",
+      "season": 6
+    },
+    {
+      "rarity": "uncommon",
+      "cost": 4,
+      "attack": 4,
+      "health": 3,
+      "crew": "marketing",
+      "season": 6
+    },
+    {
+      "rarity": "uncommon",
+      "cost": 4,
+      "attack": 2,
+      "health": 4,
+      "crew": "marketing",
+      "season": 6
+    },
+    {
+      "rarity": "rare",
+      "cost": 5,
+      "attack": 1,
+      "health": 6,
+      "crew": "marketing",
+      "season": 6
+    },
+    {
+      "rarity": "rare",
+      "cost": 5,
+      "attack": 1,
+      "health": 3,
+      "crew": "marketing",
+      "season": 6
+    },
+    {
+      "rarity": "epic",
+      "cost": 6,
+      "attack": 4,
+      "health": 6,
+      "crew": "marketing",
+      "season": 6
+    },
+    {
+      "rarity": "mythic",
+      "cost": 8,
+      "attack": 5,
+      "health": 7,
+      "crew": "marketing",
+      "season": 6
+    },
+    {
+      "rarity": "common",
+      "cost": 3,
+      "attack": 2,
+      "health": 4,
+      "crew": "personal",
+      "season": 6
+    },
+    {
+      "rarity": "common",
+      "cost": 3,
+      "attack": 3,
+      "health": 2,
+      "crew": "personal",
+      "season": 6
+    },
+    {
+      "rarity": "common",
+      "cost": 3,
+      "attack": 1,
+      "health": 5,
+      "crew": "personal",
+      "season": 6
+    },
+    {
+      "rarity": "uncommon",
+      "cost": 4,
+      "attack": 3,
+      "health": 6,
+      "crew": "personal",
+      "season": 6
+    },
+    {
+      "rarity": "uncommon",
+      "cost": 4,
+      "attack": 2,
+      "health": 3,
+      "crew": "personal",
+      "season": 6
+    },
+    {
+      "rarity": "uncommon",
+      "cost": 4,
+      "attack": 3,
+      "health": 4,
+      "crew": "ops",
+      "season": 6
+    },
+    {
+      "rarity": "rare",
+      "cost": 5,
+      "attack": 4,
+      "health": 7,
+      "crew": "personal",
+      "season": 6
+    },
+    {
+      "rarity": "rare",
+      "cost": 5,
+      "attack": 3,
+      "health": 3,
+      "crew": "personal",
+      "season": 6
+    },
+    {
+      "rarity": "epic",
+      "cost": 6,
+      "attack": 5,
+      "health": 7,
+      "crew": "personal",
+      "season": 6
+    },
+    {
+      "rarity": "epic",
+      "cost": 6,
+      "attack": 4,
+      "health": 7,
+      "crew": "personal",
+      "season": 6
+    },
+    {
+      "rarity": "common",
+      "cost": 3,
+      "attack": 2,
+      "health": 4,
+      "crew": "builders",
+      "season": 6
+    },
+    {
+      "rarity": "common",
+      "cost": 3,
+      "attack": 1,
+      "health": 3,
+      "crew": "builders",
+      "season": 6
+    },
+    {
+      "rarity": "common",
+      "cost": 3,
+      "attack": 4,
+      "health": 4,
+      "crew": "builders",
+      "season": 6
+    },
+    {
+      "rarity": "uncommon",
+      "cost": 4,
+      "attack": 3,
+      "health": 6,
+      "crew": "builders",
+      "season": 6
+    },
+    {
+      "rarity": "uncommon",
+      "cost": 4,
+      "attack": 2,
+      "health": 5,
+      "crew": "builders",
+      "season": 6
+    },
+    {
+      "rarity": "uncommon",
+      "cost": 4,
+      "attack": 4,
+      "health": 3,
+      "crew": "builders",
+      "season": 6
+    },
+    {
+      "rarity": "rare",
+      "cost": 5,
+      "attack": 2,
+      "health": 7,
+      "crew": "builders",
+      "season": 6
+    },
+    {
+      "rarity": "rare",
+      "cost": 5,
+      "attack": 3,
+      "health": 5,
+      "crew": "builders",
+      "season": 6
+    },
+    {
+      "rarity": "epic",
+      "cost": 6,
+      "attack": 4,
+      "health": 8,
+      "crew": "builders",
+      "season": 6
+    },
+    {
+      "rarity": "legendary",
+      "cost": 7,
+      "attack": 4,
+      "health": 8,
+      "crew": "builders",
+      "season": 6
+    },
+    {
+      "rarity": "common",
+      "cost": 3,
+      "attack": 5,
+      "health": 3,
+      "crew": "sales",
+      "season": 6
+    },
+    {
+      "rarity": "common",
+      "cost": 3,
+      "attack": 2,
+      "health": 4,
+      "crew": "sales",
+      "season": 6
+    },
+    {
+      "rarity": "common",
+      "cost": 3,
+      "attack": 2,
+      "health": 3,
+      "crew": "sales",
+      "season": 6
+    },
+    {
+      "rarity": "uncommon",
+      "cost": 4,
+      "attack": 4,
+      "health": 1,
+      "crew": "sales",
+      "season": 6
+    },
+    {
+      "rarity": "uncommon",
+      "cost": 4,
+      "attack": 2,
+      "health": 6,
+      "crew": "sales",
+      "season": 6
+    },
+    {
+      "rarity": "uncommon",
+      "cost": 4,
+      "attack": 2,
+      "health": 4,
+      "crew": "sales",
+      "season": 6
+    },
+    {
+      "rarity": "rare",
+      "cost": 5,
+      "attack": 3,
+      "health": 6,
+      "crew": "sales",
+      "season": 6
+    },
+    {
+      "rarity": "rare",
+      "cost": 5,
+      "attack": 1,
+      "health": 5,
+      "crew": "sales",
+      "season": 6
+    },
+    {
+      "rarity": "epic",
+      "cost": 6,
+      "attack": 2,
+      "health": 6,
+      "crew": "sales",
+      "season": 6
+    },
+    {
+      "rarity": "legendary",
+      "cost": 7,
+      "attack": 2,
+      "health": 9,
+      "crew": "sales",
+      "season": 6
+    },
+    {
+      "rarity": "common",
+      "cost": 3,
+      "attack": 4,
+      "health": 3,
+      "crew": "ops",
+      "season": 6
+    },
+    {
+      "rarity": "common",
+      "cost": 3,
+      "attack": 2,
+      "health": 6,
+      "crew": "ops",
+      "season": 6
+    },
+    {
+      "rarity": "common",
+      "cost": 3,
+      "attack": 1,
+      "health": 5,
+      "crew": "ops",
+      "season": 6
+    },
+    {
+      "rarity": "uncommon",
+      "cost": 4,
+      "attack": 6,
+      "health": 2,
+      "crew": "ops",
+      "season": 6
+    },
+    {
+      "rarity": "uncommon",
+      "cost": 4,
+      "attack": 3,
+      "health": 6,
+      "crew": "ops",
+      "season": 6
+    },
+    {
+      "rarity": "uncommon",
+      "cost": 4,
+      "attack": 2,
+      "health": 5,
+      "crew": "ops",
+      "season": 6
+    },
+    {
+      "rarity": "rare",
+      "cost": 5,
+      "attack": 7,
+      "health": 4,
+      "crew": "ops",
+      "season": 6
+    },
+    {
+      "rarity": "rare",
+      "cost": 5,
+      "attack": 3,
+      "health": 8,
+      "crew": "ops",
+      "season": 6
+    },
+    {
+      "rarity": "epic",
+      "cost": 6,
+      "attack": 8,
+      "health": 4,
+      "crew": "ops",
+      "season": 6
+    },
+    {
+      "rarity": "epic",
+      "cost": 6,
+      "attack": 4,
+      "health": 8,
+      "crew": "ops",
+      "season": 6
+    },
+    {
+      "rarity": "common",
+      "cost": 3,
+      "attack": 3,
+      "health": 1,
+      "crew": "marketing",
+      "season": 6
+    },
+    {
+      "rarity": "common",
+      "cost": 3,
+      "attack": 5,
+      "health": 3,
+      "crew": "marketing",
+      "season": 6
+    },
+    {
+      "rarity": "common",
+      "cost": 3,
+      "attack": 2,
+      "health": 5,
+      "crew": "marketing",
+      "season": 6
+    },
+    {
+      "rarity": "uncommon",
+      "cost": 4,
+      "attack": 3,
+      "health": 5,
+      "crew": "marketing",
+      "season": 6
+    },
+    {
+      "rarity": "uncommon",
+      "cost": 4,
+      "attack": 4,
+      "health": 2,
+      "crew": "marketing",
+      "season": 6
+    },
+    {
+      "rarity": "uncommon",
+      "cost": 4,
+      "attack": 3,
+      "health": 5,
+      "crew": "marketing",
+      "season": 6
+    },
+    {
+      "rarity": "rare",
+      "cost": 5,
+      "attack": 3,
+      "health": 5,
+      "crew": "marketing",
+      "season": 6
+    },
+    {
+      "rarity": "rare",
+      "cost": 5,
+      "attack": 7,
+      "health": 2,
+      "crew": "marketing",
+      "season": 6
+    },
+    {
+      "rarity": "epic",
+      "cost": 6,
+      "attack": 2,
+      "health": 6,
+      "crew": "marketing",
+      "season": 6
+    },
+    {
+      "rarity": "mythic",
+      "cost": 8,
+      "attack": 4,
+      "health": 7,
+      "crew": "marketing",
+      "season": 6
+    },
+    {
+      "rarity": "common",
+      "cost": 3,
+      "attack": 3,
+      "health": 5,
+      "crew": "personal",
+      "season": 6
+    },
+    {
+      "rarity": "common",
+      "cost": 3,
+      "attack": 3,
+      "health": 5,
+      "crew": "personal",
+      "season": 6
+    },
+    {
+      "rarity": "common",
+      "cost": 3,
+      "attack": 2,
+      "health": 3,
+      "crew": "personal",
+      "season": 6
+    },
+    {
+      "rarity": "uncommon",
+      "cost": 4,
+      "attack": 3,
+      "health": 5,
+      "crew": "personal",
+      "season": 6
+    },
+    {
+      "rarity": "uncommon",
+      "cost": 4,
+      "attack": 4,
+      "health": 5,
+      "crew": "personal",
+      "season": 6
+    },
+    {
+      "rarity": "uncommon",
+      "cost": 4,
+      "attack": 1,
+      "health": 3,
+      "crew": "personal",
+      "season": 6
+    },
+    {
+      "rarity": "rare",
+      "cost": 5,
+      "attack": 4,
+      "health": 5,
+      "crew": "personal",
+      "season": 6
+    },
+    {
+      "rarity": "rare",
+      "cost": 5,
+      "attack": 1,
+      "health": 7,
+      "crew": "personal",
+      "season": 6
+    },
+    {
+      "rarity": "epic",
+      "cost": 6,
+      "attack": 4,
+      "health": 6,
+      "crew": "personal",
+      "season": 6
+    },
+    {
+      "rarity": "mythic",
+      "cost": 8,
+      "attack": 5,
+      "health": 6,
+      "crew": "personal",
+      "season": 6
+    },
+    {
+      "rarity": "common",
+      "cost": 3,
+      "attack": 2,
+      "health": 2,
+      "crew": "builders",
+      "season": 6
+    },
+    {
+      "rarity": "common",
+      "cost": 3,
+      "attack": 4,
+      "health": 4,
+      "crew": "builders",
+      "season": 6
+    },
+    {
+      "rarity": "common",
+      "cost": 3,
+      "attack": 4,
+      "health": 2,
+      "crew": "builders",
+      "season": 6
+    },
+    {
+      "rarity": "common",
+      "cost": 3,
+      "attack": 3,
+      "health": 5,
+      "crew": "builders",
+      "season": 6
+    },
+    {
+      "rarity": "uncommon",
+      "cost": 4,
+      "attack": 3,
+      "health": 4,
+      "crew": "builders",
+      "season": 6
+    },
+    {
+      "rarity": "uncommon",
+      "cost": 4,
+      "attack": 5,
+      "health": 3,
+      "crew": "builders",
+      "season": 6
+    },
+    {
+      "rarity": "rare",
+      "cost": 5,
+      "attack": 6,
+      "health": 4,
+      "crew": "builders",
+      "season": 6
+    },
+    {
+      "rarity": "rare",
+      "cost": 5,
+      "attack": 3,
+      "health": 8,
+      "crew": "builders",
+      "season": 6
+    },
+    {
+      "rarity": "epic",
+      "cost": 6,
+      "attack": 3,
+      "health": 8,
+      "crew": "builders",
+      "season": 6
+    },
+    {
+      "rarity": "legendary",
+      "cost": 7,
+      "attack": 6,
+      "health": 6,
+      "crew": "builders",
+      "season": 6
+    },
+    {
+      "rarity": "common",
+      "cost": 3,
+      "attack": 3,
+      "health": 5,
+      "crew": "sales",
+      "season": 6
+    },
+    {
+      "rarity": "common",
+      "cost": 3,
+      "attack": 3,
+      "health": 4,
+      "crew": "sales",
+      "season": 6
+    },
+    {
+      "rarity": "common",
+      "cost": 3,
+      "attack": 3,
+      "health": 4,
+      "crew": "sales",
+      "season": 6
+    },
+    {
+      "rarity": "uncommon",
+      "cost": 4,
+      "attack": 4,
+      "health": 5,
+      "crew": "sales",
+      "season": 6
+    },
+    {
+      "rarity": "uncommon",
+      "cost": 4,
+      "attack": 1,
+      "health": 7,
+      "crew": "sales",
+      "season": 6
+    },
+    {
+      "rarity": "uncommon",
+      "cost": 4,
+      "attack": 7,
+      "health": 2,
+      "crew": "sales",
+      "season": 6
+    },
+    {
+      "rarity": "rare",
+      "cost": 5,
+      "attack": 7,
+      "health": 4,
+      "crew": "sales",
+      "season": 6
+    },
+    {
+      "rarity": "rare",
+      "cost": 5,
+      "attack": 1,
+      "health": 6,
+      "crew": "sales",
+      "season": 6
+    },
+    {
+      "rarity": "epic",
+      "cost": 6,
+      "attack": 4,
+      "health": 6,
+      "crew": "sales",
+      "season": 6
+    },
+    {
+      "rarity": "legendary",
+      "cost": 7,
+      "attack": 2,
+      "health": 9,
+      "crew": "sales",
+      "season": 6
+    },
+    {
+      "rarity": "common",
+      "cost": 3,
+      "attack": 2,
+      "health": 4,
+      "crew": "ops",
+      "season": 6
+    },
+    {
+      "rarity": "common",
+      "cost": 3,
+      "attack": 3,
+      "health": 3,
+      "crew": "ops",
+      "season": 6
+    },
+    {
+      "rarity": "common",
+      "cost": 3,
+      "attack": 2,
+      "health": 4,
+      "crew": "ops",
+      "season": 6
+    },
+    {
+      "rarity": "common",
+      "cost": 3,
+      "attack": 5,
+      "health": 3,
+      "crew": "ops",
+      "season": 6
+    },
+    {
+      "rarity": "uncommon",
+      "cost": 4,
+      "attack": 3,
+      "health": 6,
+      "crew": "ops",
+      "season": 6
+    },
+    {
+      "rarity": "uncommon",
+      "cost": 4,
+      "attack": 3,
+      "health": 4,
+      "crew": "ops",
+      "season": 6
+    },
+    {
+      "rarity": "rare",
+      "cost": 5,
+      "attack": 1,
+      "health": 6,
+      "crew": "ops",
+      "season": 6
+    },
+    {
+      "rarity": "rare",
+      "cost": 5,
+      "attack": 3,
+      "health": 8,
+      "crew": "ops",
+      "season": 6
+    },
+    {
+      "rarity": "epic",
+      "cost": 6,
+      "attack": 2,
+      "health": 10,
+      "crew": "ops",
+      "season": 6
+    },
+    {
+      "rarity": "epic",
+      "cost": 6,
+      "attack": 4,
+      "health": 7,
+      "crew": "ops",
+      "season": 6
+    },
+    {
+      "rarity": "common",
+      "cost": 3,
+      "attack": 3,
+      "health": 1,
+      "crew": "marketing",
+      "season": 6
+    },
+    {
+      "rarity": "common",
+      "cost": 3,
+      "attack": 3,
+      "health": 4,
+      "crew": "marketing",
+      "season": 6
+    },
+    {
+      "rarity": "common",
+      "cost": 3,
+      "attack": 2,
+      "health": 4,
+      "crew": "marketing",
+      "season": 6
+    },
+    {
+      "rarity": "uncommon",
+      "cost": 4,
+      "attack": 4,
+      "health": 5,
+      "crew": "marketing",
+      "season": 6
+    },
+    {
+      "rarity": "uncommon",
+      "cost": 4,
+      "attack": 3,
+      "health": 5,
+      "crew": "marketing",
+      "season": 6
+    },
+    {
+      "rarity": "uncommon",
+      "cost": 4,
+      "attack": 5,
+      "health": 3,
+      "crew": "marketing",
+      "season": 6
+    },
+    {
+      "rarity": "rare",
+      "cost": 5,
+      "attack": 2,
+      "health": 7,
+      "crew": "marketing",
+      "season": 6
+    },
+    {
+      "rarity": "rare",
+      "cost": 5,
+      "attack": 3,
+      "health": 8,
+      "crew": "marketing",
+      "season": 6
+    },
+    {
+      "rarity": "epic",
+      "cost": 6,
+      "attack": 6,
+      "health": 5,
+      "crew": "marketing",
+      "season": 6
+    },
+    {
+      "rarity": "mythic",
+      "cost": 8,
+      "attack": 5,
+      "health": 7,
+      "crew": "marketing",
+      "season": 6
+    },
+    {
+      "rarity": "common",
+      "cost": 3,
+      "attack": 2,
+      "health": 3,
+      "crew": "personal",
+      "season": 6
+    },
+    {
+      "rarity": "common",
+      "cost": 3,
+      "attack": 2,
+      "health": 4,
+      "crew": "personal",
+      "season": 6
+    },
+    {
+      "rarity": "common",
+      "cost": 3,
+      "attack": 2,
+      "health": 4,
+      "crew": "personal",
+      "season": 6
+    },
+    {
+      "rarity": "uncommon",
+      "cost": 4,
+      "attack": 3,
+      "health": 5,
+      "crew": "personal",
+      "season": 6
+    },
+    {
+      "rarity": "uncommon",
+      "cost": 4,
+      "attack": 2,
+      "health": 6,
+      "crew": "personal",
+      "season": 6
+    },
+    {
+      "rarity": "uncommon",
+      "cost": 4,
+      "attack": 3,
+      "health": 6,
+      "crew": "personal",
+      "season": 6
+    },
+    {
+      "rarity": "rare",
+      "cost": 5,
+      "attack": 7,
+      "health": 4,
+      "crew": "personal",
+      "season": 6
+    },
+    {
+      "rarity": "rare",
+      "cost": 5,
+      "attack": 1,
+      "health": 3,
+      "crew": "personal",
+      "season": 6
+    },
+    {
+      "rarity": "epic",
+      "cost": 6,
+      "attack": 1,
+      "health": 3,
+      "crew": "personal",
+      "season": 6
+    },
+    {
+      "rarity": "mythic",
+      "cost": 8,
+      "attack": 4,
+      "health": 8,
+      "crew": "personal",
+      "season": 6
+    },
+    {
+      "rarity": "common",
+      "cost": 3,
+      "attack": 3,
+      "health": 4,
+      "crew": "builders",
+      "season": 6
+    },
+    {
+      "rarity": "common",
+      "cost": 3,
+      "attack": 2,
+      "health": 5,
+      "crew": "builders",
+      "season": 6
+    },
+    {
+      "rarity": "common",
+      "cost": 3,
+      "attack": 3,
+      "health": 4,
+      "crew": "builders",
+      "season": 6
+    },
+    {
+      "rarity": "uncommon",
+      "cost": 4,
+      "attack": 3,
+      "health": 4,
+      "crew": "builders",
+      "season": 6
+    },
+    {
+      "rarity": "uncommon",
+      "cost": 4,
+      "attack": 3,
+      "health": 5,
+      "crew": "builders",
+      "season": 6
+    },
+    {
+      "rarity": "uncommon",
+      "cost": 4,
+      "attack": 5,
+      "health": 4,
+      "crew": "builders",
+      "season": 6
+    },
+    {
+      "rarity": "rare",
+      "cost": 5,
+      "attack": 3,
+      "health": 7,
+      "crew": "builders",
+      "season": 6
+    },
+    {
+      "rarity": "rare",
+      "cost": 5,
+      "attack": 3,
+      "health": 8,
+      "crew": "builders",
+      "season": 6
+    },
+    {
+      "rarity": "epic",
+      "cost": 6,
+      "attack": 3,
+      "health": 6,
+      "crew": "builders",
+      "season": 6
+    },
+    {
+      "rarity": "legendary",
+      "cost": 7,
+      "attack": 1,
+      "health": 8,
+      "crew": "builders",
+      "season": 6
+    },
+    {
+      "rarity": "common",
+      "cost": 3,
+      "attack": 6,
+      "health": 2,
+      "crew": "sales",
+      "season": 6
+    },
+    {
+      "rarity": "common",
+      "cost": 3,
+      "attack": 2,
+      "health": 5,
+      "crew": "sales",
+      "season": 6
+    },
+    {
+      "rarity": "common",
+      "cost": 3,
+      "attack": 3,
+      "health": 5,
+      "crew": "sales",
+      "season": 6
+    },
+    {
+      "rarity": "uncommon",
+      "cost": 4,
+      "attack": 2,
+      "health": 5,
+      "crew": "sales",
+      "season": 6
+    },
+    {
+      "rarity": "uncommon",
+      "cost": 4,
+      "attack": 3,
+      "health": 6,
+      "crew": "sales",
+      "season": 6
+    },
+    {
+      "rarity": "uncommon",
+      "cost": 4,
+      "attack": 3,
+      "health": 5,
+      "crew": "sales",
+      "season": 6
+    },
+    {
+      "rarity": "rare",
+      "cost": 5,
+      "attack": 4,
+      "health": 7,
+      "crew": "sales",
+      "season": 6
+    },
+    {
+      "rarity": "rare",
+      "cost": 5,
+      "attack": 5,
+      "health": 6,
+      "crew": "sales",
+      "season": 6
+    },
+    {
+      "rarity": "epic",
+      "cost": 6,
+      "attack": 9,
+      "health": 2,
+      "crew": "sales",
+      "season": 6
+    },
+    {
+      "rarity": "legendary",
+      "cost": 7,
+      "attack": 2,
+      "health": 8,
+      "crew": "sales",
+      "season": 6
+    },
+    {
+      "rarity": "common",
+      "cost": 3,
+      "attack": 2,
+      "health": 5,
+      "crew": "ops",
+      "season": 6
+    },
+    {
+      "rarity": "common",
+      "cost": 3,
+      "attack": 2,
+      "health": 5,
+      "crew": "ops",
+      "season": 6
+    },
+    {
+      "rarity": "common",
+      "cost": 3,
+      "attack": 5,
+      "health": 3,
+      "crew": "ops",
+      "season": 6
+    },
+    {
+      "rarity": "uncommon",
+      "cost": 4,
+      "attack": 3,
+      "health": 6,
+      "crew": "ops",
+      "season": 6
+    },
+    {
+      "rarity": "uncommon",
+      "cost": 4,
+      "attack": 6,
+      "health": 3,
+      "crew": "ops",
+      "season": 6
+    },
+    {
+      "rarity": "uncommon",
+      "cost": 4,
+      "attack": 2,
+      "health": 7,
+      "crew": "ops",
+      "season": 6
+    },
+    {
+      "rarity": "rare",
+      "cost": 5,
+      "attack": 3,
+      "health": 6,
+      "crew": "ops",
+      "season": 6
+    },
+    {
+      "rarity": "rare",
+      "cost": 5,
+      "attack": 3,
+      "health": 6,
+      "crew": "ops",
+      "season": 6
+    },
+    {
+      "rarity": "epic",
+      "cost": 6,
+      "attack": 3,
+      "health": 6,
+      "crew": "ops",
+      "season": 6
+    },
+    {
+      "rarity": "legendary",
+      "cost": 7,
+      "attack": 3,
+      "health": 6,
+      "crew": "ops",
+      "season": 6
+    },
+    {
+      "rarity": "common",
+      "cost": 3,
+      "attack": 1,
+      "health": 3,
+      "crew": "marketing",
+      "season": 6
+    },
+    {
+      "rarity": "common",
+      "cost": 3,
+      "attack": 4,
+      "health": 3,
+      "crew": "marketing",
+      "season": 6
+    },
+    {
+      "rarity": "common",
+      "cost": 3,
+      "attack": 2,
+      "health": 2,
+      "crew": "marketing",
+      "season": 6
+    },
+    {
+      "rarity": "common",
+      "cost": 3,
+      "attack": 5,
+      "health": 2,
+      "crew": "marketing",
+      "season": 6
+    },
+    {
+      "rarity": "uncommon",
+      "cost": 4,
+      "attack": 3,
+      "health": 5,
+      "crew": "marketing",
+      "season": 6
+    },
+    {
+      "rarity": "uncommon",
+      "cost": 4,
+      "attack": 3,
+      "health": 5,
+      "crew": "marketing",
+      "season": 6
+    },
+    {
+      "rarity": "rare",
+      "cost": 5,
+      "attack": 2,
+      "health": 7,
+      "crew": "marketing",
+      "season": 6
+    },
+    {
+      "rarity": "rare",
+      "cost": 5,
+      "attack": 2,
+      "health": 7,
+      "crew": "marketing",
+      "season": 6
+    },
+    {
+      "rarity": "epic",
+      "cost": 6,
+      "attack": 3,
+      "health": 9,
+      "crew": "marketing",
+      "season": 6
+    },
+    {
+      "rarity": "epic",
+      "cost": 6,
+      "attack": 5,
+      "health": 6,
+      "crew": "marketing",
+      "season": 6
+    },
+    {
+      "rarity": "common",
+      "cost": 3,
+      "attack": 3,
+      "health": 4,
+      "crew": "personal",
+      "season": 6
+    },
+    {
+      "rarity": "common",
+      "cost": 3,
+      "attack": 3,
+      "health": 5,
+      "crew": "personal",
+      "season": 6
+    },
+    {
+      "rarity": "common",
+      "cost": 3,
+      "attack": 2,
+      "health": 5,
+      "crew": "personal",
+      "season": 6
+    },
+    {
+      "rarity": "uncommon",
+      "cost": 4,
+      "attack": 3,
+      "health": 6,
+      "crew": "personal",
+      "season": 6
+    },
+    {
+      "rarity": "uncommon",
+      "cost": 4,
+      "attack": 1,
+      "health": 4,
+      "crew": "personal",
+      "season": 6
+    },
+    {
+      "rarity": "uncommon",
+      "cost": 4,
+      "attack": 3,
+      "health": 4,
+      "crew": "personal",
+      "season": 6
+    },
+    {
+      "rarity": "rare",
+      "cost": 5,
+      "attack": 3,
+      "health": 2,
+      "crew": "personal",
+      "season": 6
+    },
+    {
+      "rarity": "rare",
+      "cost": 5,
+      "attack": 4,
+      "health": 7,
+      "crew": "personal",
+      "season": 6
+    },
+    {
+      "rarity": "epic",
+      "cost": 6,
+      "attack": 5,
+      "health": 5,
+      "crew": "personal",
+      "season": 6
+    },
+    {
+      "rarity": "mythic",
+      "cost": 8,
+      "attack": 5,
+      "health": 7,
+      "crew": "personal",
+      "season": 6
+    },
+    {
+      "rarity": "common",
+      "cost": 3,
+      "attack": 3,
+      "health": 3,
+      "crew": "builders",
+      "season": 6
+    },
+    {
+      "rarity": "common",
+      "cost": 3,
+      "attack": 2,
+      "health": 6,
+      "crew": "builders",
+      "season": 6
+    },
+    {
+      "rarity": "common",
+      "cost": 3,
+      "attack": 3,
+      "health": 5,
+      "crew": "builders",
+      "season": 6
+    },
+    {
+      "rarity": "uncommon",
+      "cost": 4,
+      "attack": 2,
+      "health": 4,
+      "crew": "builders",
+      "season": 6
+    },
+    {
+      "rarity": "uncommon",
+      "cost": 4,
+      "attack": 3,
+      "health": 6,
+      "crew": "builders",
+      "season": 6
+    },
+    {
+      "rarity": "uncommon",
+      "cost": 4,
+      "attack": 3,
+      "health": 5,
+      "crew": "builders",
+      "season": 6
+    },
+    {
+      "rarity": "rare",
+      "cost": 5,
+      "attack": 3,
+      "health": 6,
+      "crew": "builders",
+      "season": 6
+    },
+    {
+      "rarity": "rare",
+      "cost": 5,
+      "attack": 5,
+      "health": 5,
+      "crew": "builders",
+      "season": 6
+    },
+    {
+      "rarity": "epic",
+      "cost": 6,
+      "attack": 1,
+      "health": 5,
+      "crew": "builders",
+      "season": 6
+    },
+    {
+      "rarity": "mythic",
+      "cost": 8,
+      "attack": 4,
+      "health": 6,
+      "crew": "builders",
+      "season": 6
+    },
+    {
+      "rarity": "common",
+      "cost": 3,
+      "attack": 3,
+      "health": 5,
+      "crew": "sales",
+      "season": 6
+    },
+    {
+      "rarity": "common",
+      "cost": 3,
+      "attack": 5,
+      "health": 3,
+      "crew": "sales",
+      "season": 6
+    },
+    {
+      "rarity": "common",
+      "cost": 3,
+      "attack": 3,
+      "health": 5,
+      "crew": "sales",
+      "season": 6
+    },
+    {
+      "rarity": "uncommon",
+      "cost": 4,
+      "attack": 1,
+      "health": 7,
+      "crew": "sales",
+      "season": 6
+    },
+    {
+      "rarity": "uncommon",
+      "cost": 4,
+      "attack": 2,
+      "health": 7,
+      "crew": "sales",
+      "season": 6
+    },
+    {
+      "rarity": "uncommon",
+      "cost": 4,
+      "attack": 2,
+      "health": 5,
+      "crew": "sales",
+      "season": 6
+    },
+    {
+      "rarity": "rare",
+      "cost": 5,
+      "attack": 3,
+      "health": 6,
+      "crew": "sales",
+      "season": 6
+    },
+    {
+      "rarity": "rare",
+      "cost": 5,
+      "attack": 1,
+      "health": 5,
+      "crew": "sales",
+      "season": 6
+    },
+    {
+      "rarity": "epic",
+      "cost": 6,
+      "attack": 3,
+      "health": 8,
+      "crew": "sales",
+      "season": 6
+    },
+    {
+      "rarity": "mythic",
+      "cost": 8,
+      "attack": 2,
+      "health": 1,
+      "crew": "sales",
+      "season": 6
+    },
+    {
+      "rarity": "common",
+      "cost": 3,
+      "attack": 3,
+      "health": 5,
+      "crew": "ops",
+      "season": 6
+    },
+    {
+      "rarity": "common",
+      "cost": 3,
+      "attack": 5,
+      "health": 3,
+      "crew": "ops",
+      "season": 6
+    },
+    {
+      "rarity": "common",
+      "cost": 3,
+      "attack": 3,
+      "health": 5,
+      "crew": "ops",
+      "season": 6
+    },
+    {
+      "rarity": "uncommon",
+      "cost": 4,
+      "attack": 4,
+      "health": 4,
+      "crew": "ops",
+      "season": 6
+    },
+    {
+      "rarity": "uncommon",
+      "cost": 4,
+      "attack": 2,
+      "health": 6,
+      "crew": "ops",
+      "season": 6
+    },
+    {
+      "rarity": "uncommon",
+      "cost": 4,
+      "attack": 2,
+      "health": 7,
+      "crew": "ops",
+      "season": 6
+    },
+    {
+      "rarity": "rare",
+      "cost": 5,
+      "attack": 8,
+      "health": 3,
+      "crew": "ops",
+      "season": 6
+    },
+    {
+      "rarity": "rare",
+      "cost": 5,
+      "attack": 3,
+      "health": 7,
+      "crew": "ops",
+      "season": 6
+    },
+    {
+      "rarity": "epic",
+      "cost": 6,
+      "attack": 4,
+      "health": 5,
+      "crew": "ops",
+      "season": 6
+    },
+    {
+      "rarity": "legendary",
+      "cost": 7,
+      "attack": 4,
+      "health": 8,
+      "crew": "ops",
+      "season": 6
+    },
+    {
+      "rarity": "common",
+      "cost": 3,
+      "attack": 3,
+      "health": 3,
+      "crew": "marketing",
+      "season": 6
+    },
+    {
+      "rarity": "common",
+      "cost": 3,
+      "attack": 1,
+      "health": 5,
+      "crew": "marketing",
+      "season": 6
+    },
+    {
+      "rarity": "common",
+      "cost": 3,
+      "attack": 3,
+      "health": 1,
+      "crew": "marketing",
+      "season": 6
+    },
+    {
+      "rarity": "uncommon",
+      "cost": 4,
+      "attack": 3,
+      "health": 5,
+      "crew": "marketing",
+      "season": 6
+    },
+    {
+      "rarity": "uncommon",
+      "cost": 4,
+      "attack": 3,
+      "health": 5,
+      "crew": "marketing",
+      "season": 6
+    },
+    {
+      "rarity": "uncommon",
+      "cost": 4,
+      "attack": 3,
+      "health": 6,
+      "crew": "marketing",
+      "season": 6
+    },
+    {
+      "rarity": "rare",
+      "cost": 5,
+      "attack": 1,
+      "health": 8,
+      "crew": "marketing",
+      "season": 6
+    },
+    {
+      "rarity": "rare",
+      "cost": 5,
+      "attack": 3,
+      "health": 8,
+      "crew": "marketing",
+      "season": 6
+    },
+    {
+      "rarity": "epic",
+      "cost": 6,
+      "attack": 6,
+      "health": 6,
+      "crew": "marketing",
+      "season": 6
+    },
+    {
+      "rarity": "legendary",
+      "cost": 7,
+      "attack": 3,
+      "health": 6,
+      "crew": "marketing",
+      "season": 6
+    },
+    {
+      "rarity": "common",
+      "cost": 3,
+      "attack": 4,
+      "health": 3,
+      "crew": "personal",
+      "season": 6
+    },
+    {
+      "rarity": "common",
+      "cost": 3,
+      "attack": 3,
+      "health": 1,
+      "crew": "personal",
+      "season": 6
+    },
+    {
+      "rarity": "common",
+      "cost": 3,
+      "attack": 3,
+      "health": 4,
+      "crew": "personal",
+      "season": 6
+    },
+    {
+      "rarity": "common",
+      "cost": 3,
+      "attack": 1,
+      "health": 3,
+      "crew": "personal",
+      "season": 6
+    },
+    {
+      "rarity": "uncommon",
+      "cost": 4,
+      "attack": 2,
+      "health": 7,
+      "crew": "personal",
+      "season": 6
+    },
+    {
+      "rarity": "uncommon",
+      "cost": 4,
+      "attack": 5,
+      "health": 4,
+      "crew": "personal",
+      "season": 6
+    },
+    {
+      "rarity": "rare",
+      "cost": 5,
+      "attack": 4,
+      "health": 6,
+      "crew": "personal",
+      "season": 6
+    },
+    {
+      "rarity": "rare",
+      "cost": 5,
+      "attack": 3,
+      "health": 5,
+      "crew": "personal",
+      "season": 6
+    },
+    {
+      "rarity": "epic",
+      "cost": 6,
+      "attack": 5,
+      "health": 7,
+      "crew": "personal",
+      "season": 6
+    },
+    {
+      "rarity": "epic",
+      "cost": 6,
+      "attack": 9,
+      "health": 2,
+      "crew": "personal",
+      "season": 6
+    },
+    {
+      "rarity": "common",
+      "cost": 3,
+      "attack": 3,
+      "health": 5,
+      "crew": "builders",
+      "season": 6
+    },
+    {
+      "rarity": "common",
+      "cost": 3,
+      "attack": 2,
+      "health": 5,
+      "crew": "builders",
+      "season": 6
+    },
+    {
+      "rarity": "common",
+      "cost": 3,
+      "attack": 5,
+      "health": 3,
+      "crew": "builders",
+      "season": 6
+    },
+    {
+      "rarity": "uncommon",
+      "cost": 4,
+      "attack": 3,
+      "health": 5,
+      "crew": "builders",
+      "season": 6
+    },
+    {
+      "rarity": "uncommon",
+      "cost": 4,
+      "attack": 5,
+      "health": 3,
+      "crew": "builders",
+      "season": 6
+    },
+    {
+      "rarity": "uncommon",
+      "cost": 4,
+      "attack": 4,
+      "health": 4,
+      "crew": "builders",
+      "season": 6
+    },
+    {
+      "rarity": "rare",
+      "cost": 5,
+      "attack": 2,
+      "health": 6,
+      "crew": "builders",
+      "season": 6
+    },
+    {
+      "rarity": "rare",
+      "cost": 5,
+      "attack": 1,
+      "health": 3,
+      "crew": "builders",
+      "season": 6
+    },
+    {
+      "rarity": "epic",
+      "cost": 6,
+      "attack": 5,
+      "health": 7,
+      "crew": "builders",
+      "season": 6
+    },
+    {
+      "rarity": "mythic",
+      "cost": 8,
+      "attack": 4,
+      "health": 8,
+      "crew": "builders",
+      "season": 6
+    },
+    {
+      "rarity": "common",
+      "cost": 3,
+      "attack": 1,
+      "health": 5,
+      "crew": "sales",
+      "season": 6
+    },
+    {
+      "rarity": "common",
+      "cost": 3,
+      "attack": 4,
+      "health": 4,
+      "crew": "sales",
+      "season": 6
+    },
+    {
+      "rarity": "common",
+      "cost": 3,
+      "attack": 3,
+      "health": 5,
+      "crew": "sales",
+      "season": 6
+    },
+    {
+      "rarity": "uncommon",
+      "cost": 4,
+      "attack": 6,
+      "health": 2,
+      "crew": "sales",
+      "season": 6
+    },
+    {
+      "rarity": "uncommon",
+      "cost": 4,
+      "attack": 6,
+      "health": 3,
+      "crew": "sales",
+      "season": 6
+    },
+    {
+      "rarity": "uncommon",
+      "cost": 4,
+      "attack": 1,
+      "health": 5,
+      "crew": "sales",
+      "season": 6
+    },
+    {
+      "rarity": "rare",
+      "cost": 5,
+      "attack": 3,
+      "health": 7,
+      "crew": "sales",
+      "season": 6
+    },
+    {
+      "rarity": "rare",
+      "cost": 5,
+      "attack": 3,
+      "health": 6,
+      "crew": "sales",
+      "season": 6
+    },
+    {
+      "rarity": "epic",
+      "cost": 6,
+      "attack": 4,
+      "health": 7,
+      "crew": "sales",
+      "season": 6
+    },
+    {
+      "rarity": "mythic",
+      "cost": 8,
+      "attack": 4,
+      "health": 8,
+      "crew": "sales",
+      "season": 6
+    },
+    {
+      "rarity": "common",
+      "cost": 3,
+      "attack": 5,
+      "health": 3,
+      "crew": "ops",
+      "season": 6
+    },
+    {
+      "rarity": "common",
+      "cost": 3,
+      "attack": 3,
+      "health": 5,
+      "crew": "ops",
+      "season": 6
+    },
+    {
+      "rarity": "common",
+      "cost": 3,
+      "attack": 2,
+      "health": 5,
+      "crew": "ops",
+      "season": 6
+    },
+    {
+      "rarity": "uncommon",
+      "cost": 4,
+      "attack": 6,
+      "health": 3,
+      "crew": "ops",
+      "season": 6
+    },
+    {
+      "rarity": "uncommon",
+      "cost": 4,
+      "attack": 1,
+      "health": 4,
+      "crew": "ops",
+      "season": 6
+    },
+    {
+      "rarity": "uncommon",
+      "cost": 4,
+      "attack": 2,
+      "health": 5,
+      "crew": "ops",
+      "season": 6
+    },
+    {
+      "rarity": "rare",
+      "cost": 5,
+      "attack": 7,
+      "health": 4,
+      "crew": "ops",
+      "season": 6
+    },
+    {
+      "rarity": "rare",
+      "cost": 5,
+      "attack": 3,
+      "health": 5,
+      "crew": "ops",
+      "season": 6
+    },
+    {
+      "rarity": "epic",
+      "cost": 6,
+      "attack": 2,
+      "health": 6,
+      "crew": "ops",
+      "season": 6
+    },
+    {
+      "rarity": "mythic",
+      "cost": 8,
+      "attack": 5,
+      "health": 7,
+      "crew": "ops",
+      "season": 6
+    },
+    {
+      "rarity": "common",
+      "cost": 3,
+      "attack": 6,
+      "health": 1,
+      "crew": "marketing",
+      "season": 6
+    },
+    {
+      "rarity": "common",
+      "cost": 3,
+      "attack": 4,
+      "health": 4,
+      "crew": "marketing",
+      "season": 6
+    },
+    {
+      "rarity": "common",
+      "cost": 3,
+      "attack": 3,
+      "health": 5,
+      "crew": "marketing",
+      "season": 6
+    },
+    {
+      "rarity": "uncommon",
+      "cost": 4,
+      "attack": 4,
+      "health": 5,
+      "crew": "marketing",
+      "season": 6
+    },
+    {
+      "rarity": "uncommon",
+      "cost": 4,
+      "attack": 2,
+      "health": 7,
+      "crew": "marketing",
+      "season": 6
+    },
+    {
+      "rarity": "uncommon",
+      "cost": 4,
+      "attack": 5,
+      "health": 3,
+      "crew": "marketing",
+      "season": 6
+    },
+    {
+      "rarity": "rare",
+      "cost": 5,
+      "attack": 5,
+      "health": 5,
+      "crew": "marketing",
+      "season": 6
+    },
+    {
+      "rarity": "rare",
+      "cost": 5,
+      "attack": 4,
+      "health": 7,
+      "crew": "marketing",
+      "season": 6
+    },
+    {
+      "rarity": "epic",
+      "cost": 6,
+      "attack": 4,
+      "health": 6,
+      "crew": "marketing",
+      "season": 6
+    },
+    {
+      "rarity": "legendary",
+      "cost": 7,
+      "attack": 6,
+      "health": 6,
+      "crew": "marketing",
+      "season": 6
+    },
+    {
+      "rarity": "common",
+      "cost": 3,
+      "attack": 5,
+      "health": 2,
+      "crew": "personal",
+      "season": 6
+    },
+    {
+      "rarity": "common",
+      "cost": 3,
+      "attack": 1,
+      "health": 5,
+      "crew": "personal",
+      "season": 6
+    },
+    {
+      "rarity": "common",
+      "cost": 3,
+      "attack": 3,
+      "health": 5,
+      "crew": "personal",
+      "season": 6
+    },
+    {
+      "rarity": "uncommon",
+      "cost": 4,
+      "attack": 3,
+      "health": 6,
+      "crew": "personal",
+      "season": 6
+    },
+    {
+      "rarity": "uncommon",
+      "cost": 4,
+      "attack": 3,
+      "health": 6,
+      "crew": "personal",
+      "season": 6
+    },
+    {
+      "rarity": "uncommon",
+      "cost": 4,
+      "attack": 3,
+      "health": 5,
+      "crew": "personal",
+      "season": 6
+    },
+    {
+      "rarity": "rare",
+      "cost": 5,
+      "attack": 4,
+      "health": 6,
+      "crew": "personal",
+      "season": 6
+    },
+    {
+      "rarity": "rare",
+      "cost": 5,
+      "attack": 7,
+      "health": 4,
+      "crew": "personal",
+      "season": 6
+    },
+    {
+      "rarity": "epic",
+      "cost": 6,
+      "attack": 4,
+      "health": 7,
+      "crew": "personal",
+      "season": 6
+    },
+    {
+      "rarity": "legendary",
+      "cost": 7,
+      "attack": 5,
+      "health": 7,
+      "crew": "personal",
+      "season": 6
+    },
+    {
+      "rarity": "common",
+      "cost": 3,
+      "attack": 2,
+      "health": 4,
+      "crew": "builders",
+      "season": 6
+    },
+    {
+      "rarity": "common",
+      "cost": 3,
+      "attack": 1,
+      "health": 3,
+      "crew": "builders",
+      "season": 6
+    },
+    {
+      "rarity": "common",
+      "cost": 3,
+      "attack": 2,
+      "health": 3,
+      "crew": "builders",
+      "season": 6
+    },
+    {
+      "rarity": "common",
+      "cost": 3,
+      "attack": 1,
+      "health": 7,
+      "crew": "builders",
+      "season": 6
+    },
+    {
+      "rarity": "uncommon",
+      "cost": 4,
+      "attack": 2,
+      "health": 4,
+      "crew": "builders",
+      "season": 6
+    },
+    {
+      "rarity": "uncommon",
+      "cost": 4,
+      "attack": 4,
+      "health": 4,
+      "crew": "builders",
+      "season": 6
+    },
+    {
+      "rarity": "rare",
+      "cost": 5,
+      "attack": 1,
+      "health": 10,
+      "crew": "builders",
+      "season": 6
+    },
+    {
+      "rarity": "rare",
+      "cost": 5,
+      "attack": 2,
+      "health": 7,
+      "crew": "builders",
+      "season": 6
+    },
+    {
+      "rarity": "epic",
+      "cost": 6,
+      "attack": 4,
+      "health": 6,
+      "crew": "builders",
+      "season": 6
+    },
+    {
+      "rarity": "epic",
+      "cost": 6,
+      "attack": 5,
+      "health": 6,
+      "crew": "builders",
+      "season": 6
+    },
+    {
+      "rarity": "common",
+      "cost": 3,
+      "attack": 5,
+      "health": 3,
+      "crew": "sales",
+      "season": 6
+    },
+    {
+      "rarity": "common",
+      "cost": 3,
+      "attack": 3,
+      "health": 1,
+      "crew": "sales",
+      "season": 6
+    },
+    {
+      "rarity": "uncommon",
+      "cost": 4,
+      "attack": 7,
+      "health": 2,
+      "crew": "sales",
+      "season": 6
+    },
+    {
+      "rarity": "uncommon",
+      "cost": 4,
+      "attack": 6,
+      "health": 1,
+      "crew": "sales",
+      "season": 6
+    },
+    {
+      "rarity": "rare",
+      "cost": 5,
+      "attack": 3,
+      "health": 7,
+      "crew": "sales",
+      "season": 6
+    },
+    {
+      "rarity": "common",
+      "cost": 3,
+      "attack": 2,
+      "health": 4,
+      "crew": "ops",
+      "season": 6
+    },
+    {
+      "rarity": "uncommon",
+      "cost": 4,
+      "attack": 3,
+      "health": 6,
+      "crew": "ops",
+      "season": 6
+    },
+    {
+      "rarity": "uncommon",
+      "cost": 4,
+      "attack": 4,
+      "health": 1,
+      "crew": "ops",
+      "season": 6
+    },
+    {
+      "rarity": "rare",
+      "cost": 5,
+      "attack": 3,
+      "health": 5,
+      "crew": "ops",
+      "season": 6
+    },
+    {
+      "rarity": "epic",
+      "cost": 6,
+      "attack": 6,
+      "health": 6,
+      "crew": "ops",
+      "season": 6
+    },
+    {
+      "rarity": "mythic",
+      "cost": 8,
+      "attack": 4,
+      "health": 7,
+      "crew": "ops",
+      "season": 6
+    },
+    {
+      "rarity": "common",
+      "cost": 3,
+      "attack": 4,
+      "health": 4,
+      "crew": "marketing",
+      "season": 6
+    },
+    {
+      "rarity": "common",
+      "cost": 3,
+      "attack": 2,
+      "health": 4,
+      "crew": "marketing",
+      "season": 6
+    },
+    {
+      "rarity": "uncommon",
+      "cost": 4,
+      "attack": 1,
+      "health": 5,
+      "crew": "marketing",
+      "season": 6
+    },
+    {
+      "rarity": "rare",
+      "cost": 5,
+      "attack": 3,
+      "health": 6,
+      "crew": "marketing",
+      "season": 6
+    },
+    {
+      "rarity": "epic",
+      "cost": 6,
+      "attack": 4,
+      "health": 4,
+      "crew": "marketing",
+      "season": 6
+    },
+    {
+      "rarity": "legendary",
+      "cost": 7,
+      "attack": 2,
+      "health": 8,
+      "crew": "marketing",
+      "season": 6
+    },
+    {
+      "rarity": "common",
+      "cost": 3,
+      "attack": 5,
+      "health": 3,
+      "crew": "personal",
+      "season": 6
+    },
+    {
+      "rarity": "common",
+      "cost": 3,
+      "attack": 4,
+      "health": 1,
+      "crew": "personal",
+      "season": 6
+    },
+    {
+      "rarity": "uncommon",
+      "cost": 4,
+      "attack": 4,
+      "health": 4,
+      "crew": "personal",
+      "season": 6
+    },
+    {
+      "rarity": "rare",
+      "cost": 5,
+      "attack": 4,
+      "health": 6,
+      "crew": "personal",
+      "season": 6
+    },
+    {
+      "rarity": "epic",
+      "cost": 6,
+      "attack": 5,
+      "health": 5,
+      "crew": "personal",
+      "season": 6
+    },
+    {
+      "rarity": "common",
+      "cost": 3,
+      "attack": 3,
+      "health": 2,
+      "crew": "builders",
+      "season": 6
+    },
+    {
+      "rarity": "common",
+      "cost": 3,
+      "attack": 1,
+      "health": 5,
+      "crew": "builders",
+      "season": 6
+    },
+    {
+      "rarity": "uncommon",
+      "cost": 4,
+      "attack": 3,
+      "health": 5,
+      "crew": "builders",
+      "season": 6
+    },
+    {
+      "rarity": "uncommon",
+      "cost": 4,
+      "attack": 2,
+      "health": 5,
+      "crew": "builders",
+      "season": 6
+    },
+    {
+      "rarity": "rare",
+      "cost": 5,
+      "attack": 3,
+      "health": 7,
+      "crew": "builders",
+      "season": 6
+    }
+  ]
+}
